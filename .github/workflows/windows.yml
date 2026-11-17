@@ -1,0 +1,80 @@
+# Compila el instalador de Windows en un runner de Windows de GitHub Actions.
+# Se lanza a mano (Actions → windows → Run workflow) o al subir una etiqueta v*.
+name: windows
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install ".[ui,ner,dev]" pyinstaller pywin32
+
+      - name: Pruebas
+        run: pytest -q
+
+      - name: Tesseract (OCR) con español
+        shell: pwsh
+        run: |
+          choco install tesseract -y --no-progress
+          $origen = "C:\Program Files\Tesseract-OCR"
+          New-Item -ItemType Directory -Force vendor\tesseract | Out-Null
+          Copy-Item "$origen\*" vendor\tesseract -Recurse
+          foreach ($l in "spa", "eng", "ces") {
+            Invoke-WebRequest https://github.com/tesseract-ocr/tessdata_fast/raw/main/$l.traineddata `
+              -OutFile vendor\tesseract\tessdata\$l.traineddata
+          }
+
+      - name: PyInstaller
+        run: pyinstaller packaging/anonimizador.spec --noconfirm
+
+      - name: Prueba de humo del ejecutable (spaCy, OCR y detector dentro del paquete)
+        shell: pwsh
+        run: |
+          $p = Start-Process dist\Anonimizador\Anonimizador.exe -ArgumentList "--autoprueba","autoprueba.json" -Wait -PassThru
+          Get-Content autoprueba.json
+          if ($p.ExitCode -ne 0) { exit 1 }
+
+      - name: Prueba de la ventana (elegir un Word y un PDF y llegar a la revisión)
+        shell: pwsh
+        run: |
+          python -c "import docx; d=docx.Document(); d.add_paragraph('Comparece el C. Juan Pérez García con RFC GODE561231GR8, domicilio en Calle Fresno 112, Col. Santa María la Ribera, y correo juan@ejemplo.com.'); d.save('prueba.docx')"
+          python -c "import pymupdf; d=pymupdf.open(); d.new_page().insert_text((72,100),'Comparece el C. Juan Perez Garcia con RFC GODE561231GR8.'); d.save('prueba.pdf')"
+          python -c "import docx; d=docx.Document(); d.add_paragraph('Smlouvu se spolecnosti Stavby Brno s.r.o., ICO 27074358, podepsala Ing. Jana Dvorakova dne 3. brezna 2026. Kontakt: jana.dvorakova@seznam.cz.'); d.save('prueba_cs.docx')"
+          python -c "import docx; d=docx.Document(); d.add_paragraph('Dear Mr. Thompson, the settlement agreement with Northbridge Logistics LLC was signed by Ms. Sarah O Connell on March 3, 2026. Please email s.oconnell@northbridge.com.'); d.save('prueba_en.docx')"
+          $fallo = 0
+          foreach ($doc in "prueba.docx", "prueba.pdf", "prueba_en.docx", "prueba_cs.docx") {
+            $p = Start-Process dist\Anonimizador\Anonimizador.exe -ArgumentList "--autoprueba-ui",$doc,"ui-$doc.json" -Wait -PassThru
+            Write-Host "== $doc (salida $($p.ExitCode))"; Get-Content "ui-$doc.json"
+            if ($p.ExitCode -ne 0) { $fallo = 1 }
+          }
+          $log = "$env:APPDATA\Anonimizador\errores.log"
+          if (Test-Path $log) { Write-Host "== errores.log"; Get-Content $log }
+          exit $fallo
+
+      - name: Instalador (Inno Setup)
+        shell: pwsh
+        run: |
+          if (-not (Get-Command iscc -ErrorAction SilentlyContinue)) {
+            choco install innosetup -y --no-progress
+            $env:PATH += ";C:\Program Files (x86)\Inno Setup 6"
+          }
+          iscc packaging\instalador.iss
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Anonimizador-windows
+          path: dist/Anonimizador-*-instalador.exe
+          retention-days: 7  # la cuota de artefactos se llena con ~25 instaladores

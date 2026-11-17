@@ -1,0 +1,14 @@
+{
+  "name": "anonimizador",
+  "owner": {
+    "name": "Luis Reyes Aldaco"
+  },
+  "description": "Anonimiza documentos legales en tu computadora para que Claude trabaje sin ver los datos reales.",
+  "plugins": [
+    {
+      "name": "anonimizador",
+      "source": "./claude-plugin",
+      "description": "Claude trabaja con documentos legales sin ver nunca los datos reales."
+    }
+  ]
+}

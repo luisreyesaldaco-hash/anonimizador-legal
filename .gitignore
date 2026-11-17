@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+node_modules/
+dist/
+build/
+target/
+*.exe
+.env
+*.egg-info/
+src/anonimizador/modelos/

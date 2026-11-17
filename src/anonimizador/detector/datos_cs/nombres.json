@@ -1,0 +1,4559 @@
+{
+ "muz": {
+  "jmena": [
+   {
+    "nom": "Jan",
+    "gen": "Jana",
+    "dat": "Janovi",
+    "aku": "Jana",
+    "vok": "Jane",
+    "lok": "Janovi",
+    "ins": "Janem"
+   },
+   {
+    "nom": "Jiří",
+    "gen": "Jiřího",
+    "dat": "Jiřímu",
+    "aku": "Jiřího",
+    "vok": "Jiří",
+    "lok": "Jiřím",
+    "ins": "Jiřím"
+   },
+   {
+    "nom": "Petr",
+    "gen": "Petra",
+    "dat": "Petrovi",
+    "aku": "Petra",
+    "vok": "Petře",
+    "lok": "Petrovi",
+    "ins": "Petrem"
+   },
+   {
+    "nom": "Josef",
+    "gen": "Josefa",
+    "dat": "Josefovi",
+    "aku": "Josefa",
+    "vok": "Josefe",
+    "lok": "Josefovi",
+    "ins": "Josefem"
+   },
+   {
+    "nom": "Pavel",
+    "gen": "Pavla",
+    "dat": "Pavlovi",
+    "aku": "Pavla",
+    "vok": "Pavle",
+    "lok": "Pavlovi",
+    "ins": "Pavlem"
+   },
+   {
+    "nom": "Martin",
+    "gen": "Martina",
+    "dat": "Martinovi",
+    "aku": "Martina",
+    "vok": "Martine",
+    "lok": "Martinovi",
+    "ins": "Martinem"
+   },
+   {
+    "nom": "Tomáš",
+    "gen": "Tomáše",
+    "dat": "Tomášovi",
+    "aku": "Tomáše",
+    "vok": "Tomáši",
+    "lok": "Tomášovi",
+    "ins": "Tomášem"
+   },
+   {
+    "nom": "Jaroslav",
+    "gen": "Jaroslava",
+    "dat": "Jaroslavovi",
+    "aku": "Jaroslava",
+    "vok": "Jaroslave",
+    "lok": "Jaroslavovi",
+    "ins": "Jaroslavem"
+   },
+   {
+    "nom": "Miroslav",
+    "gen": "Miroslava",
+    "dat": "Miroslavovi",
+    "aku": "Miroslava",
+    "vok": "Miroslave",
+    "lok": "Miroslavovi",
+    "ins": "Miroslavem"
+   },
+   {
+    "nom": "Zdeněk",
+    "gen": "Zdeňka",
+    "dat": "Zdeňkovi",
+    "aku": "Zdeňka",
+    "vok": "Zdeňku",
+    "lok": "Zdeňkovi",
+    "ins": "Zdeňkem"
+   },
+   {
+    "nom": "František",
+    "gen": "Františka",
+    "dat": "Františkovi",
+    "aku": "Františka",
+    "vok": "Františku",
+    "lok": "Františkovi",
+    "ins": "Františkem"
+   },
+   {
+    "nom": "Václav",
+    "gen": "Václava",
+    "dat": "Václavovi",
+    "aku": "Václava",
+    "vok": "Václave",
+    "lok": "Václavovi",
+    "ins": "Václavem"
+   },
+   {
+    "nom": "Michal",
+    "gen": "Michala",
+    "dat": "Michalovi",
+    "aku": "Michala",
+    "vok": "Michale",
+    "lok": "Michalovi",
+    "ins": "Michalem"
+   },
+   {
+    "nom": "Karel",
+    "gen": "Karla",
+    "dat": "Karlovi",
+    "aku": "Karla",
+    "vok": "Karle",
+    "lok": "Karlovi",
+    "ins": "Karlem"
+   },
+   {
+    "nom": "Milan",
+    "gen": "Milana",
+    "dat": "Milanovi",
+    "aku": "Milana",
+    "vok": "Milane",
+    "lok": "Milanovi",
+    "ins": "Milanem"
+   },
+   {
+    "nom": "Vladimír",
+    "gen": "Vladimíra",
+    "dat": "Vladimírovi",
+    "aku": "Vladimíra",
+    "vok": "Vladimíre",
+    "lok": "Vladimírovi",
+    "ins": "Vladimírem"
+   },
+   {
+    "nom": "David",
+    "gen": "Davida",
+    "dat": "Davidovi",
+    "aku": "Davida",
+    "vok": "Davide",
+    "lok": "Davidovi",
+    "ins": "Davidem"
+   },
+   {
+    "nom": "Jakub",
+    "gen": "Jakuba",
+    "dat": "Jakubovi",
+    "aku": "Jakuba",
+    "vok": "Jakube",
+    "lok": "Jakubovi",
+    "ins": "Jakubem"
+   },
+   {
+    "nom": "Ladislav",
+    "gen": "Ladislava",
+    "dat": "Ladislavovi",
+    "aku": "Ladislava",
+    "vok": "Ladislave",
+    "lok": "Ladislavovi",
+    "ins": "Ladislavem"
+   },
+   {
+    "nom": "Stanislav",
+    "gen": "Stanislava",
+    "dat": "Stanislavovi",
+    "aku": "Stanislava",
+    "vok": "Stanislave",
+    "lok": "Stanislavovi",
+    "ins": "Stanislavem"
+   },
+   {
+    "nom": "Roman",
+    "gen": "Romana",
+    "dat": "Romanovi",
+    "aku": "Romana",
+    "vok": "Romane",
+    "lok": "Romanovi",
+    "ins": "Romanem"
+   },
+   {
+    "nom": "Ondřej",
+    "gen": "Ondřeje",
+    "dat": "Ondřejovi",
+    "aku": "Ondřeje",
+    "vok": "Ondřeji",
+    "lok": "Ondřejovi",
+    "ins": "Ondřejem"
+   },
+   {
+    "nom": "Antonín",
+    "gen": "Antonína",
+    "dat": "Antonínovi",
+    "aku": "Antonína",
+    "vok": "Antoníne",
+    "lok": "Antonínovi",
+    "ins": "Antonínem"
+   },
+   {
+    "nom": "Radek",
+    "gen": "Radka",
+    "dat": "Radkovi",
+    "aku": "Radka",
+    "vok": "Radku",
+    "lok": "Radkovi",
+    "ins": "Radkem"
+   },
+   {
+    "nom": "Marek",
+    "gen": "Marka",
+    "dat": "Markovi",
+    "aku": "Marka",
+    "vok": "Marku",
+    "lok": "Markovi",
+    "ins": "Markem"
+   },
+   {
+    "nom": "Lukáš",
+    "gen": "Lukáše",
+    "dat": "Lukášovi",
+    "aku": "Lukáše",
+    "vok": "Lukáši",
+    "lok": "Lukášovi",
+    "ins": "Lukášem"
+   },
+   {
+    "nom": "Daniel",
+    "gen": "Daniela",
+    "dat": "Danielovi",
+    "aku": "Daniela",
+    "vok": "Danieli",
+    "lok": "Danielovi",
+    "ins": "Danielem"
+   },
+   {
+    "nom": "Filip",
+    "gen": "Filipa",
+    "dat": "Filipovi",
+    "aku": "Filipa",
+    "vok": "Filipe",
+    "lok": "Filipovi",
+    "ins": "Filipem"
+   },
+   {
+    "nom": "Vojtěch",
+    "gen": "Vojtěcha",
+    "dat": "Vojtěchovi",
+    "aku": "Vojtěcha",
+    "vok": "Vojtěchu",
+    "lok": "Vojtěchovi",
+    "ins": "Vojtěchem"
+   },
+   {
+    "nom": "Jindřich",
+    "gen": "Jindřicha",
+    "dat": "Jindřichovi",
+    "aku": "Jindřicha",
+    "vok": "Jindřichu",
+    "lok": "Jindřichovi",
+    "ins": "Jindřichem"
+   },
+   {
+    "nom": "Luboš",
+    "gen": "Luboše",
+    "dat": "Lubošovi",
+    "aku": "Luboše",
+    "vok": "Luboši",
+    "lok": "Lubošovi",
+    "ins": "Lubošem"
+   },
+   {
+    "nom": "Aleš",
+    "gen": "Aleše",
+    "dat": "Alešovi",
+    "aku": "Aleše",
+    "vok": "Aleši",
+    "lok": "Alešovi",
+    "ins": "Alešem"
+   },
+   {
+    "nom": "Libor",
+    "gen": "Libora",
+    "dat": "Liborovi",
+    "aku": "Libora",
+    "vok": "Libore",
+    "lok": "Liborovi",
+    "ins": "Liborem"
+   },
+   {
+    "nom": "Rudolf",
+    "gen": "Rudolfa",
+    "dat": "Rudolfovi",
+    "aku": "Rudolfa",
+    "vok": "Rudolfe",
+    "lok": "Rudolfovi",
+    "ins": "Rudolfem"
+   },
+   {
+    "nom": "Ivan",
+    "gen": "Ivana",
+    "dat": "Ivanovi",
+    "aku": "Ivana",
+    "vok": "Ivane",
+    "lok": "Ivanovi",
+    "ins": "Ivanem"
+   },
+   {
+    "nom": "Oldřich",
+    "gen": "Oldřicha",
+    "dat": "Oldřichovi",
+    "aku": "Oldřicha",
+    "vok": "Oldřichu",
+    "lok": "Oldřichovi",
+    "ins": "Oldřichem"
+   },
+   {
+    "nom": "Richard",
+    "gen": "Richarda",
+    "dat": "Richardovi",
+    "aku": "Richarda",
+    "vok": "Richarde",
+    "lok": "Richardovi",
+    "ins": "Richardem"
+   },
+   {
+    "nom": "Patrik",
+    "gen": "Patrika",
+    "dat": "Patrikovi",
+    "aku": "Patrika",
+    "vok": "Patriku",
+    "lok": "Patrikovi",
+    "ins": "Patrikem"
+   },
+   {
+    "nom": "Adam",
+    "gen": "Adama",
+    "dat": "Adamovi",
+    "aku": "Adama",
+    "vok": "Adame",
+    "lok": "Adamovi",
+    "ins": "Adamem"
+   },
+   {
+    "nom": "Robert",
+    "gen": "Roberta",
+    "dat": "Robertovi",
+    "aku": "Roberta",
+    "vok": "Roberte",
+    "lok": "Robertovi",
+    "ins": "Robertem"
+   },
+   {
+    "nom": "Vlastimil",
+    "gen": "Vlastimila",
+    "dat": "Vlastimilovi",
+    "aku": "Vlastimila",
+    "vok": "Vlastimile",
+    "lok": "Vlastimilovi",
+    "ins": "Vlastimilem"
+   },
+   {
+    "nom": "Josef",
+    "gen": "Josefa",
+    "dat": "Josefovi",
+    "aku": "Josefa",
+    "vok": "Josefe",
+    "lok": "Josefovi",
+    "ins": "Josefem"
+   },
+   {
+    "nom": "Bohumil",
+    "gen": "Bohumila",
+    "dat": "Bohumilovi",
+    "aku": "Bohumila",
+    "vok": "Bohumile",
+    "lok": "Bohumilovi",
+    "ins": "Bohumilem"
+   },
+   {
+    "nom": "Zbyněk",
+    "gen": "Zbyňka",
+    "dat": "Zbyňkovi",
+    "aku": "Zbyňka",
+    "vok": "Zbyňku",
+    "lok": "Zbyňkovi",
+    "ins": "Zbyňkem"
+   },
+   {
+    "nom": "Miloslav",
+    "gen": "Miloslava",
+    "dat": "Miloslavovi",
+    "aku": "Miloslava",
+    "vok": "Miloslave",
+    "lok": "Miloslavovi",
+    "ins": "Miloslavem"
+   },
+   {
+    "nom": "Lubomír",
+    "gen": "Lubomíra",
+    "dat": "Lubomírovi",
+    "aku": "Lubomíra",
+    "vok": "Lubomíre",
+    "lok": "Lubomírovi",
+    "ins": "Lubomírem"
+   },
+   {
+    "nom": "Dušan",
+    "gen": "Dušana",
+    "dat": "Dušanovi",
+    "aku": "Dušana",
+    "vok": "Dušane",
+    "lok": "Dušanovi",
+    "ins": "Dušanem"
+   },
+   {
+    "nom": "Miloš",
+    "gen": "Miloše",
+    "dat": "Milošovi",
+    "aku": "Miloše",
+    "vok": "Miloši",
+    "lok": "Milošovi",
+    "ins": "Milošem"
+   },
+   {
+    "nom": "Vladislav",
+    "gen": "Vladislava",
+    "dat": "Vladislavovi",
+    "aku": "Vladislava",
+    "vok": "Vladislave",
+    "lok": "Vladislavovi",
+    "ins": "Vladislavem"
+   },
+   {
+    "nom": "Štěpán",
+    "gen": "Štěpána",
+    "dat": "Štěpánovi",
+    "aku": "Štěpána",
+    "vok": "Štěpáne",
+    "lok": "Štěpánovi",
+    "ins": "Štěpánem"
+   },
+   {
+    "nom": "Bohuslav",
+    "gen": "Bohuslava",
+    "dat": "Bohuslavovi",
+    "aku": "Bohuslava",
+    "vok": "Bohuslave",
+    "lok": "Bohuslavovi",
+    "ins": "Bohuslavem"
+   },
+   {
+    "nom": "Eduard",
+    "gen": "Eduarda",
+    "dat": "Eduardovi",
+    "aku": "Eduarda",
+    "vok": "Eduarde",
+    "lok": "Eduardovi",
+    "ins": "Eduardem"
+   },
+   {
+    "nom": "Radim",
+    "gen": "Radima",
+    "dat": "Radimovi",
+    "aku": "Radima",
+    "vok": "Radime",
+    "lok": "Radimovi",
+    "ins": "Radimem"
+   },
+   {
+    "nom": "Matěj",
+    "gen": "Matěje",
+    "dat": "Matějovi",
+    "aku": "Matěje",
+    "vok": "Matěji",
+    "lok": "Matějovi",
+    "ins": "Matějem"
+   },
+   {
+    "nom": "Alois",
+    "gen": "Aloise",
+    "dat": "Aloisovi",
+    "aku": "Aloise",
+    "vok": "Aloisi",
+    "lok": "Aloisovi",
+    "ins": "Aloisem"
+   },
+   {
+    "nom": "Viktor",
+    "gen": "Viktora",
+    "dat": "Viktorovi",
+    "aku": "Viktora",
+    "vok": "Viktore",
+    "lok": "Viktorovi",
+    "ins": "Viktorem"
+   },
+   {
+    "nom": "Otakar",
+    "gen": "Otakara",
+    "dat": "Otakarovi",
+    "aku": "Otakara",
+    "vok": "Otakare",
+    "lok": "Otakarovi",
+    "ins": "Otakarem"
+   },
+   {
+    "nom": "Karel",
+    "gen": "Karla",
+    "dat": "Karlovi",
+    "aku": "Karla",
+    "vok": "Karle",
+    "lok": "Karlovi",
+    "ins": "Karlem"
+   },
+   {
+    "nom": "Leoš",
+    "gen": "Leoše",
+    "dat": "Leošovi",
+    "aku": "Leoše",
+    "vok": "Leoši",
+    "lok": "Leošovi",
+    "ins": "Leošem"
+   },
+   {
+    "nom": "Dominik",
+    "gen": "Dominika",
+    "dat": "Dominikovi",
+    "aku": "Dominika",
+    "vok": "Dominiku",
+    "lok": "Dominikovi",
+    "ins": "Dominikem"
+   },
+   {
+    "nom": "Pavel",
+    "gen": "Pavla",
+    "dat": "Pavlovi",
+    "aku": "Pavla",
+    "vok": "Pavle",
+    "lok": "Pavlovi",
+    "ins": "Pavlem"
+   },
+   {
+    "nom": "Šimon",
+    "gen": "Šimona",
+    "dat": "Šimonovi",
+    "aku": "Šimona",
+    "vok": "Šimone",
+    "lok": "Šimonovi",
+    "ins": "Šimonem"
+   },
+   {
+    "nom": "Kamil",
+    "gen": "Kamila",
+    "dat": "Kamilovi",
+    "aku": "Kamila",
+    "vok": "Kamile",
+    "lok": "Kamilovi",
+    "ins": "Kamilem"
+   },
+   {
+    "nom": "Břetislav",
+    "gen": "Břetislava",
+    "dat": "Břetislavovi",
+    "aku": "Břetislava",
+    "vok": "Břetislave",
+    "lok": "Břetislavovi",
+    "ins": "Břetislavem"
+   },
+   {
+    "nom": "Vít",
+    "gen": "Víta",
+    "dat": "Vítovi",
+    "aku": "Víta",
+    "vok": "Víte",
+    "lok": "Vítovi",
+    "ins": "Vítem"
+   },
+   {
+    "nom": "Roman",
+    "gen": "Romana",
+    "dat": "Romanovi",
+    "aku": "Romana",
+    "vok": "Romane",
+    "lok": "Romanovi",
+    "ins": "Romanem"
+   },
+   {
+    "nom": "Denis",
+    "gen": "Denise",
+    "dat": "Denisovi",
+    "aku": "Denise",
+    "vok": "Denisi",
+    "lok": "Denisovi",
+    "ins": "Denisem"
+   },
+   {
+    "nom": "Rostislav",
+    "gen": "Rostislava",
+    "dat": "Rostislavovi",
+    "aku": "Rostislava",
+    "vok": "Rostislave",
+    "lok": "Rostislavovi",
+    "ins": "Rostislavem"
+   },
+   {
+    "nom": "Svatopluk",
+    "gen": "Svatopluka",
+    "dat": "Svatoplukovi",
+    "aku": "Svatopluka",
+    "vok": "Svatopluku",
+    "lok": "Svatoplukovi",
+    "ins": "Svatoplukem"
+   },
+   {
+    "nom": "Ctibor",
+    "gen": "Ctibora",
+    "dat": "Ctiborovi",
+    "aku": "Ctibora",
+    "vok": "Ctibore",
+    "lok": "Ctiborovi",
+    "ins": "Ctiborem"
+   },
+   {
+    "nom": "Igor",
+    "gen": "Igora",
+    "dat": "Igorovi",
+    "aku": "Igora",
+    "vok": "Igore",
+    "lok": "Igorovi",
+    "ins": "Igorem"
+   },
+   {
+    "nom": "Evžen",
+    "gen": "Evžena",
+    "dat": "Evženovi",
+    "aku": "Evžena",
+    "vok": "Evžene",
+    "lok": "Evženovi",
+    "ins": "Evženem"
+   },
+   {
+    "nom": "Pavol",
+    "gen": "Pavola",
+    "dat": "Pavolovi",
+    "aku": "Pavola",
+    "vok": "Pavole",
+    "lok": "Pavolovi",
+    "ins": "Pavolem"
+   },
+   {
+    "nom": "Samuel",
+    "gen": "Samuela",
+    "dat": "Samuelovi",
+    "aku": "Samuela",
+    "vok": "Samueli",
+    "lok": "Samuelovi",
+    "ins": "Samuelem"
+   },
+   {
+    "nom": "Hynek",
+    "gen": "Hynka",
+    "dat": "Hynkovi",
+    "aku": "Hynka",
+    "vok": "Hynku",
+    "lok": "Hynkovi",
+    "ins": "Hynkem"
+   },
+   {
+    "nom": "Emil",
+    "gen": "Emila",
+    "dat": "Emilovi",
+    "aku": "Emila",
+    "vok": "Emile",
+    "lok": "Emilovi",
+    "ins": "Emilem"
+   },
+   {
+    "nom": "Alexandr",
+    "gen": "Alexandra",
+    "dat": "Alexandrovi",
+    "aku": "Alexandra",
+    "vok": "Alexandre",
+    "lok": "Alexandrovi",
+    "ins": "Alexandrem"
+   },
+   {
+    "nom": "Slavomír",
+    "gen": "Slavomíra",
+    "dat": "Slavomírovi",
+    "aku": "Slavomíra",
+    "vok": "Slavomíre",
+    "lok": "Slavomírovi",
+    "ins": "Slavomírem"
+   },
+   {
+    "nom": "Benjamin",
+    "gen": "Benjamina",
+    "dat": "Benjaminovi",
+    "aku": "Benjamina",
+    "vok": "Benjamine",
+    "lok": "Benjaminovi",
+    "ins": "Benjaminem"
+   },
+   {
+    "nom": "Tadeáš",
+    "gen": "Tadeáše",
+    "dat": "Tadeášovi",
+    "aku": "Tadeáše",
+    "vok": "Tadeáši",
+    "lok": "Tadeášovi",
+    "ins": "Tadeášem"
+   },
+   {
+    "nom": "Čeněk",
+    "gen": "Čeňka",
+    "dat": "Čeňkovi",
+    "aku": "Čeňka",
+    "vok": "Čeňku",
+    "lok": "Čeňkovi",
+    "ins": "Čeňkem"
+   },
+   {
+    "nom": "Matouš",
+    "gen": "Matouše",
+    "dat": "Matoušovi",
+    "aku": "Matouše",
+    "vok": "Matouši",
+    "lok": "Matoušovi",
+    "ins": "Matoušem"
+   },
+   {
+    "nom": "Boleslav",
+    "gen": "Boleslava",
+    "dat": "Boleslavovi",
+    "aku": "Boleslava",
+    "vok": "Boleslave",
+    "lok": "Boleslavovi",
+    "ins": "Boleslavem"
+   },
+   {
+    "nom": "Artur",
+    "gen": "Artura",
+    "dat": "Arturovi",
+    "aku": "Artura",
+    "vok": "Arture",
+    "lok": "Arturovi",
+    "ins": "Arturem"
+   },
+   {
+    "nom": "Erik",
+    "gen": "Erika",
+    "dat": "Erikovi",
+    "aku": "Erika",
+    "vok": "Eriku",
+    "lok": "Erikovi",
+    "ins": "Erikem"
+   },
+   {
+    "nom": "Ludvík",
+    "gen": "Ludvíka",
+    "dat": "Ludvíkovi",
+    "aku": "Ludvíka",
+    "vok": "Ludvíku",
+    "lok": "Ludvíkovi",
+    "ins": "Ludvíkem"
+   },
+   {
+    "nom": "Přemysl",
+    "gen": "Přemysla",
+    "dat": "Přemyslovi",
+    "aku": "Přemysla",
+    "vok": "Přemysle",
+    "lok": "Přemyslovi",
+    "ins": "Přemyslem"
+   },
+   {
+    "nom": "Drahomír",
+    "gen": "Drahomíra",
+    "dat": "Drahomírovi",
+    "aku": "Drahomíra",
+    "vok": "Drahomíre",
+    "lok": "Drahomírovi",
+    "ins": "Drahomírem"
+   },
+   {
+    "nom": "Jonáš",
+    "gen": "Jonáše",
+    "dat": "Jonášovi",
+    "aku": "Jonáše",
+    "vok": "Jonáši",
+    "lok": "Jonášovi",
+    "ins": "Jonášem"
+   },
+   {
+    "nom": "Sebastian",
+    "gen": "Sebastiana",
+    "dat": "Sebastianovi",
+    "aku": "Sebastiana",
+    "vok": "Sebastiane",
+    "lok": "Sebastianovi",
+    "ins": "Sebastianem"
+   },
+   {
+    "nom": "Bedřich",
+    "gen": "Bedřicha",
+    "dat": "Bedřichovi",
+    "aku": "Bedřicha",
+    "vok": "Bedřichu",
+    "lok": "Bedřichovi",
+    "ins": "Bedřichem"
+   },
+   {
+    "nom": "Vilém",
+    "gen": "Viléma",
+    "dat": "Vilémovi",
+    "aku": "Viléma",
+    "vok": "Viléme",
+    "lok": "Vilémovi",
+    "ins": "Vilémem"
+   },
+   {
+    "nom": "Vratislav",
+    "gen": "Vratislava",
+    "dat": "Vratislavovi",
+    "aku": "Vratislava",
+    "vok": "Vratislave",
+    "lok": "Vratislavovi",
+    "ins": "Vratislavem"
+   },
+   {
+    "nom": "Environ",
+    "gen": "Environa",
+    "dat": "Environovi",
+    "aku": "Environa",
+    "vok": "Environe",
+    "lok": "Environovi",
+    "ins": "Environem"
+   },
+   {
+    "nom": "Marian",
+    "gen": "Mariana",
+    "dat": "Marianovi",
+    "aku": "Mariana",
+    "vok": "Mariane",
+    "lok": "Marianovi",
+    "ins": "Marianem"
+   },
+   {
+    "nom": "Gustav",
+    "gen": "Gustava",
+    "dat": "Gustavovi",
+    "aku": "Gustava",
+    "vok": "Gustave",
+    "lok": "Gustavovi",
+    "ins": "Gustavem"
+   },
+   {
+    "nom": "Imrich",
+    "gen": "Imricha",
+    "dat": "Imrichovi",
+    "aku": "Imricha",
+    "vok": "Imrichu",
+    "lok": "Imrichovi",
+    "ins": "Imrichem"
+   },
+   {
+    "nom": "Jáchym",
+    "gen": "Jáchyma",
+    "dat": "Jáchymovi",
+    "aku": "Jáchyma",
+    "vok": "Jáchyme",
+    "lok": "Jáchymovi",
+    "ins": "Jáchymem"
+   },
+   {
+    "nom": "Oto",
+    "gen": "Ota",
+    "dat": "Otovi",
+    "aku": "Ota",
+    "vok": "Oto",
+    "lok": "Otovi",
+    "ins": "Otou"
+   },
+   {
+    "nom": "Branislav",
+    "gen": "Branislava",
+    "dat": "Branislavovi",
+    "aku": "Branislava",
+    "vok": "Branislave",
+    "lok": "Branislavovi",
+    "ins": "Branislavem"
+   },
+   {
+    "nom": "Environ2",
+    "gen": "Environa",
+    "dat": "Environovi",
+    "aku": "Environa",
+    "vok": "Environe",
+    "lok": "Environovi",
+    "ins": "Environem"
+   }
+  ],
+  "prijmeni": [
+   {
+    "nom": "Novák",
+    "gen": "Nováka",
+    "dat": "Novákovi",
+    "aku": "Nováka",
+    "vok": "Nováku",
+    "lok": "Novákovi",
+    "ins": "Novákem"
+   },
+   {
+    "nom": "Svoboda",
+    "gen": "Svobody",
+    "dat": "Svobodovi",
+    "aku": "Svobodu",
+    "vok": "Svobodo",
+    "lok": "Svobodovi",
+    "ins": "Svobodou"
+   },
+   {
+    "nom": "Novotný",
+    "gen": "Novotného",
+    "dat": "Novotnému",
+    "aku": "Novotného",
+    "vok": "Novotný",
+    "lok": "Novotném",
+    "ins": "Novotným"
+   },
+   {
+    "nom": "Dvořák",
+    "gen": "Dvořáka",
+    "dat": "Dvořákovi",
+    "aku": "Dvořáka",
+    "vok": "Dvořáku",
+    "lok": "Dvořákovi",
+    "ins": "Dvořákem"
+   },
+   {
+    "nom": "Černý",
+    "gen": "Černého",
+    "dat": "Černému",
+    "aku": "Černého",
+    "vok": "Černý",
+    "lok": "Černém",
+    "ins": "Černým"
+   },
+   {
+    "nom": "Procházka",
+    "gen": "Procházky",
+    "dat": "Procházkovi",
+    "aku": "Procházku",
+    "vok": "Procházko",
+    "lok": "Procházkovi",
+    "ins": "Procházkou"
+   },
+   {
+    "nom": "Kučera",
+    "gen": "Kučery",
+    "dat": "Kučerovi",
+    "aku": "Kučeru",
+    "vok": "Kučero",
+    "lok": "Kučerovi",
+    "ins": "Kučerou"
+   },
+   {
+    "nom": "Veselý",
+    "gen": "Veselého",
+    "dat": "Veselému",
+    "aku": "Veselého",
+    "vok": "Veselý",
+    "lok": "Veselém",
+    "ins": "Veselým"
+   },
+   {
+    "nom": "Horák",
+    "gen": "Horáka",
+    "dat": "Horákovi",
+    "aku": "Horáka",
+    "vok": "Horáku",
+    "lok": "Horákovi",
+    "ins": "Horákem"
+   },
+   {
+    "nom": "Němec",
+    "gen": "Němce",
+    "dat": "Němcovi",
+    "aku": "Němce",
+    "vok": "Němče",
+    "lok": "Němcovi",
+    "ins": "Němcem"
+   },
+   {
+    "nom": "Pokorný",
+    "gen": "Pokorného",
+    "dat": "Pokornému",
+    "aku": "Pokorného",
+    "vok": "Pokorný",
+    "lok": "Pokorném",
+    "ins": "Pokorným"
+   },
+   {
+    "nom": "Marek",
+    "gen": "Marka",
+    "dat": "Markovi",
+    "aku": "Marka",
+    "vok": "Marku",
+    "lok": "Markovi",
+    "ins": "Markem"
+   },
+   {
+    "nom": "Pospíšil",
+    "gen": "Pospíšila",
+    "dat": "Pospíšilovi",
+    "aku": "Pospíšila",
+    "vok": "Pospíšile",
+    "lok": "Pospíšilovi",
+    "ins": "Pospíšilem"
+   },
+   {
+    "nom": "Hájek",
+    "gen": "Hájka",
+    "dat": "Hájkovi",
+    "aku": "Hájka",
+    "vok": "Hájku",
+    "lok": "Hájkovi",
+    "ins": "Hájkem"
+   },
+   {
+    "nom": "Král",
+    "gen": "Krále",
+    "dat": "Královi",
+    "aku": "Krále",
+    "vok": "Králi",
+    "lok": "Královi",
+    "ins": "Králem"
+   },
+   {
+    "nom": "Jelínek",
+    "gen": "Jelínka",
+    "dat": "Jelínkovi",
+    "aku": "Jelínka",
+    "vok": "Jelínku",
+    "lok": "Jelínkovi",
+    "ins": "Jelínkem"
+   },
+   {
+    "nom": "Růžička",
+    "gen": "Růžičky",
+    "dat": "Růžičkovi",
+    "aku": "Růžičku",
+    "vok": "Růžičko",
+    "lok": "Růžičkovi",
+    "ins": "Růžičkou"
+   },
+   {
+    "nom": "Beneš",
+    "gen": "Beneše",
+    "dat": "Benešovi",
+    "aku": "Beneše",
+    "vok": "Beneši",
+    "lok": "Benešovi",
+    "ins": "Benešem"
+   },
+   {
+    "nom": "Fiala",
+    "gen": "Fialy",
+    "dat": "Fialovi",
+    "aku": "Fialu",
+    "vok": "Fialo",
+    "lok": "Fialovi",
+    "ins": "Fialou"
+   },
+   {
+    "nom": "Sedláček",
+    "gen": "Sedláčka",
+    "dat": "Sedláčkovi",
+    "aku": "Sedláčka",
+    "vok": "Sedláčku",
+    "lok": "Sedláčkovi",
+    "ins": "Sedláčkem"
+   },
+   {
+    "nom": "Doležal",
+    "gen": "Doležala",
+    "dat": "Doležalovi",
+    "aku": "Doležala",
+    "vok": "Doležale",
+    "lok": "Doležalovi",
+    "ins": "Doležalem"
+   },
+   {
+    "nom": "Zeman",
+    "gen": "Zemana",
+    "dat": "Zemanovi",
+    "aku": "Zemana",
+    "vok": "Zemane",
+    "lok": "Zemanovi",
+    "ins": "Zemanem"
+   },
+   {
+    "nom": "Kolář",
+    "gen": "Koláře",
+    "dat": "Kolářovi",
+    "aku": "Koláře",
+    "vok": "Koláři",
+    "lok": "Kolářovi",
+    "ins": "Kolářem"
+   },
+   {
+    "nom": "Navrátil",
+    "gen": "Navrátila",
+    "dat": "Navrátilovi",
+    "aku": "Navrátila",
+    "vok": "Navrátile",
+    "lok": "Navrátilovi",
+    "ins": "Navrátilem"
+   },
+   {
+    "nom": "Čermák",
+    "gen": "Čermáka",
+    "dat": "Čermákovi",
+    "aku": "Čermáka",
+    "vok": "Čermáku",
+    "lok": "Čermákovi",
+    "ins": "Čermákem"
+   },
+   {
+    "nom": "Vaněk",
+    "gen": "Vaňka",
+    "dat": "Vaňkovi",
+    "aku": "Vaňka",
+    "vok": "Vaňku",
+    "lok": "Vaňkovi",
+    "ins": "Vaňkem"
+   },
+   {
+    "nom": "Urban",
+    "gen": "Urbana",
+    "dat": "Urbanovi",
+    "aku": "Urbana",
+    "vok": "Urbane",
+    "lok": "Urbanovi",
+    "ins": "Urbanem"
+   },
+   {
+    "nom": "Blažek",
+    "gen": "Blažka",
+    "dat": "Blažkovi",
+    "aku": "Blažka",
+    "vok": "Blažku",
+    "lok": "Blažkovi",
+    "ins": "Blažkem"
+   },
+   {
+    "nom": "Kříž",
+    "gen": "Kříže",
+    "dat": "Křížovi",
+    "aku": "Kříže",
+    "vok": "Kříži",
+    "lok": "Křížovi",
+    "ins": "Křížem"
+   },
+   {
+    "nom": "Kovář",
+    "gen": "Kováře",
+    "dat": "Kovářovi",
+    "aku": "Kováře",
+    "vok": "Kováři",
+    "lok": "Kovářovi",
+    "ins": "Kovářem"
+   },
+   {
+    "nom": "Bartoš",
+    "gen": "Bartoše",
+    "dat": "Bartošovi",
+    "aku": "Bartoše",
+    "vok": "Bartoši",
+    "lok": "Bartošovi",
+    "ins": "Bartošem"
+   },
+   {
+    "nom": "Vlček",
+    "gen": "Vlčka",
+    "dat": "Vlčkovi",
+    "aku": "Vlčka",
+    "vok": "Vlčku",
+    "lok": "Vlčkovi",
+    "ins": "Vlčkem"
+   },
+   {
+    "nom": "Polák",
+    "gen": "Poláka",
+    "dat": "Polákovi",
+    "aku": "Poláka",
+    "vok": "Poláku",
+    "lok": "Polákovi",
+    "ins": "Polákem"
+   },
+   {
+    "nom": "Musil",
+    "gen": "Musila",
+    "dat": "Musilovi",
+    "aku": "Musila",
+    "vok": "Musile",
+    "lok": "Musilovi",
+    "ins": "Musilem"
+   },
+   {
+    "nom": "Šimek",
+    "gen": "Šimka",
+    "dat": "Šimkovi",
+    "aku": "Šimka",
+    "vok": "Šimku",
+    "lok": "Šimkovi",
+    "ins": "Šimkem"
+   },
+   {
+    "nom": "Holub",
+    "gen": "Holuba",
+    "dat": "Holubovi",
+    "aku": "Holuba",
+    "vok": "Holube",
+    "lok": "Holubovi",
+    "ins": "Holubem"
+   },
+   {
+    "nom": "Kopecký",
+    "gen": "Kopeckého",
+    "dat": "Kopeckému",
+    "aku": "Kopeckého",
+    "vok": "Kopecký",
+    "lok": "Kopeckém",
+    "ins": "Kopeckým"
+   },
+   {
+    "nom": "Konečný",
+    "gen": "Konečného",
+    "dat": "Konečnému",
+    "aku": "Konečného",
+    "vok": "Konečný",
+    "lok": "Konečném",
+    "ins": "Konečným"
+   },
+   {
+    "nom": "Malý",
+    "gen": "Malého",
+    "dat": "Malému",
+    "aku": "Malého",
+    "vok": "Malý",
+    "lok": "Malém",
+    "ins": "Malým"
+   },
+   {
+    "nom": "Ševčík",
+    "gen": "Ševčíka",
+    "dat": "Ševčíkovi",
+    "aku": "Ševčíka",
+    "vok": "Ševčíku",
+    "lok": "Ševčíkovi",
+    "ins": "Ševčíkem"
+   },
+   {
+    "nom": "Matoušek",
+    "gen": "Matouška",
+    "dat": "Matouškovi",
+    "aku": "Matouška",
+    "vok": "Matoušku",
+    "lok": "Matouškovi",
+    "ins": "Matouškem"
+   },
+   {
+    "nom": "Stejskal",
+    "gen": "Stejskala",
+    "dat": "Stejskalovi",
+    "aku": "Stejskala",
+    "vok": "Stejskale",
+    "lok": "Stejskalovi",
+    "ins": "Stejskalem"
+   },
+   {
+    "nom": "Kadlec",
+    "gen": "Kadlece",
+    "dat": "Kadlecovi",
+    "aku": "Kadlece",
+    "vok": "Kadleci",
+    "lok": "Kadlecovi",
+    "ins": "Kadlecem"
+   },
+   {
+    "nom": "Havlíček",
+    "gen": "Havlíčka",
+    "dat": "Havlíčkovi",
+    "aku": "Havlíčka",
+    "vok": "Havlíčku",
+    "lok": "Havlíčkovi",
+    "ins": "Havlíčkem"
+   },
+   {
+    "nom": "Tichý",
+    "gen": "Tichého",
+    "dat": "Tichému",
+    "aku": "Tichého",
+    "vok": "Tichý",
+    "lok": "Tichém",
+    "ins": "Tichým"
+   },
+   {
+    "nom": "Souček",
+    "gen": "Součka",
+    "dat": "Součkovi",
+    "aku": "Součka",
+    "vok": "Součku",
+    "lok": "Součkovi",
+    "ins": "Součkem"
+   },
+   {
+    "nom": "Mach",
+    "gen": "Macha",
+    "dat": "Machovi",
+    "aku": "Macha",
+    "vok": "Machu",
+    "lok": "Machovi",
+    "ins": "Machem"
+   },
+   {
+    "nom": "Kratochvíl",
+    "gen": "Kratochvíla",
+    "dat": "Kratochvílovi",
+    "aku": "Kratochvíla",
+    "vok": "Kratochvíle",
+    "lok": "Kratochvílovi",
+    "ins": "Kratochvílem"
+   },
+   {
+    "nom": "Bureš",
+    "gen": "Bureše",
+    "dat": "Burešovi",
+    "aku": "Bureše",
+    "vok": "Bureši",
+    "lok": "Burešovi",
+    "ins": "Burešem"
+   },
+   {
+    "nom": "Říha",
+    "gen": "Říhy",
+    "dat": "Říhovi",
+    "aku": "Říhu",
+    "vok": "Řího",
+    "lok": "Říhovi",
+    "ins": "Říhou"
+   },
+   {
+    "nom": "Sýkora",
+    "gen": "Sýkory",
+    "dat": "Sýkorovi",
+    "aku": "Sýkoru",
+    "vok": "Sýkoro",
+    "lok": "Sýkorovi",
+    "ins": "Sýkorou"
+   },
+   {
+    "nom": "Šťastný",
+    "gen": "Šťastného",
+    "dat": "Šťastnému",
+    "aku": "Šťastného",
+    "vok": "Šťastný",
+    "lok": "Šťastném",
+    "ins": "Šťastným"
+   },
+   {
+    "nom": "Hruška",
+    "gen": "Hrušky",
+    "dat": "Hruškovi",
+    "aku": "Hrušku",
+    "vok": "Hruško",
+    "lok": "Hruškovi",
+    "ins": "Hruškou"
+   },
+   {
+    "nom": "Zelenka",
+    "gen": "Zelenky",
+    "dat": "Zelenkovi",
+    "aku": "Zelenku",
+    "vok": "Zelenko",
+    "lok": "Zelenkovi",
+    "ins": "Zelenkou"
+   },
+   {
+    "nom": "Studený",
+    "gen": "Studeného",
+    "dat": "Studenému",
+    "aku": "Studeného",
+    "vok": "Studený",
+    "lok": "Studeném",
+    "ins": "Studeným"
+   },
+   {
+    "nom": "Kubík",
+    "gen": "Kubíka",
+    "dat": "Kubíkovi",
+    "aku": "Kubíka",
+    "vok": "Kubíku",
+    "lok": "Kubíkovi",
+    "ins": "Kubíkem"
+   },
+   {
+    "nom": "Pavlík",
+    "gen": "Pavlíka",
+    "dat": "Pavlíkovi",
+    "aku": "Pavlíka",
+    "vok": "Pavlíku",
+    "lok": "Pavlíkovi",
+    "ins": "Pavlíkem"
+   },
+   {
+    "nom": "Vojtěch",
+    "gen": "Vojtěcha",
+    "dat": "Vojtěchovi",
+    "aku": "Vojtěcha",
+    "vok": "Vojtěchu",
+    "lok": "Vojtěchovi",
+    "ins": "Vojtěchem"
+   },
+   {
+    "nom": "Štěpánek",
+    "gen": "Štěpánka",
+    "dat": "Štěpánkovi",
+    "aku": "Štěpánka",
+    "vok": "Štěpánku",
+    "lok": "Štěpánkovi",
+    "ins": "Štěpánkem"
+   },
+   {
+    "nom": "Kaplan",
+    "gen": "Kaplana",
+    "dat": "Kaplanovi",
+    "aku": "Kaplana",
+    "vok": "Kaplane",
+    "lok": "Kaplanovi",
+    "ins": "Kaplanem"
+   },
+   {
+    "nom": "Tomášek",
+    "gen": "Tomáška",
+    "dat": "Tomáškovi",
+    "aku": "Tomáška",
+    "vok": "Tomášku",
+    "lok": "Tomáškovi",
+    "ins": "Tomáškem"
+   },
+   {
+    "nom": "Chaloupka",
+    "gen": "Chaloupky",
+    "dat": "Chaloupkovi",
+    "aku": "Chaloupku",
+    "vok": "Chaloupko",
+    "lok": "Chaloupkovi",
+    "ins": "Chaloupkou"
+   },
+   {
+    "nom": "Burian",
+    "gen": "Buriana",
+    "dat": "Burianovi",
+    "aku": "Buriana",
+    "vok": "Buriane",
+    "lok": "Burianovi",
+    "ins": "Burianem"
+   },
+   {
+    "nom": "Mareš",
+    "gen": "Mareše",
+    "dat": "Marešovi",
+    "aku": "Mareše",
+    "vok": "Mareši",
+    "lok": "Marešovi",
+    "ins": "Marešem"
+   },
+   {
+    "nom": "Kalina",
+    "gen": "Kaliny",
+    "dat": "Kalinovi",
+    "aku": "Kalinu",
+    "vok": "Kalino",
+    "lok": "Kalinovi",
+    "ins": "Kalinou"
+   },
+   {
+    "nom": "Vávra",
+    "gen": "Vávry",
+    "dat": "Vávrovi",
+    "aku": "Vávru",
+    "vok": "Vávro",
+    "lok": "Vávrovi",
+    "ins": "Vávrou"
+   },
+   {
+    "nom": "Lukáš",
+    "gen": "Lukáše",
+    "dat": "Lukášovi",
+    "aku": "Lukáše",
+    "vok": "Lukáši",
+    "lok": "Lukášovi",
+    "ins": "Lukášem"
+   },
+   {
+    "nom": "Bednář",
+    "gen": "Bednáře",
+    "dat": "Bednářovi",
+    "aku": "Bednáře",
+    "vok": "Bednáři",
+    "lok": "Bednářovi",
+    "ins": "Bednářem"
+   },
+   {
+    "nom": "Dušek",
+    "gen": "Duška",
+    "dat": "Duškovi",
+    "aku": "Duška",
+    "vok": "Dušku",
+    "lok": "Duškovi",
+    "ins": "Duškem"
+   },
+   {
+    "nom": "Moravec",
+    "gen": "Moravce",
+    "dat": "Moravcovi",
+    "aku": "Moravce",
+    "vok": "Moravče",
+    "lok": "Moravcovi",
+    "ins": "Moravcem"
+   },
+   {
+    "nom": "Kozák",
+    "gen": "Kozáka",
+    "dat": "Kozákovi",
+    "aku": "Kozáka",
+    "vok": "Kozáku",
+    "lok": "Kozákovi",
+    "ins": "Kozákem"
+   },
+   {
+    "nom": "Staněk",
+    "gen": "Stanělka",
+    "dat": "Stanělkovi",
+    "aku": "Stanělka",
+    "vok": "Stanělku",
+    "lok": "Stanělkovi",
+    "ins": "Stanělkem"
+   },
+   {
+    "nom": "Havel",
+    "gen": "Havla",
+    "dat": "Havlovi",
+    "aku": "Havla",
+    "vok": "Havle",
+    "lok": "Havlovi",
+    "ins": "Havlem"
+   },
+   {
+    "nom": "Sedlák",
+    "gen": "Sedláka",
+    "dat": "Sedlákovi",
+    "aku": "Sedláka",
+    "vok": "Sedláku",
+    "lok": "Sedlákovi",
+    "ins": "Sedlákem"
+   },
+   {
+    "nom": "Pavlíček",
+    "gen": "Pavlíčka",
+    "dat": "Pavlíčkovi",
+    "aku": "Pavlíčka",
+    "vok": "Pavlíčku",
+    "lok": "Pavlíčkovi",
+    "ins": "Pavlíčkem"
+   },
+   {
+    "nom": "Janda",
+    "gen": "Jandy",
+    "dat": "Jandovi",
+    "aku": "Jandu",
+    "vok": "Jando",
+    "lok": "Jandovi",
+    "ins": "Jandou"
+   },
+   {
+    "nom": "Skála",
+    "gen": "Skály",
+    "dat": "Skálovi",
+    "aku": "Skálu",
+    "vok": "Skálo",
+    "lok": "Skálovi",
+    "ins": "Skálou"
+   },
+   {
+    "nom": "Šebek",
+    "gen": "Šebka",
+    "dat": "Šebkovi",
+    "aku": "Šebka",
+    "vok": "Šebku",
+    "lok": "Šebkovi",
+    "ins": "Šebkem"
+   },
+   {
+    "nom": "Slavík",
+    "gen": "Slavíka",
+    "dat": "Slavíkovi",
+    "aku": "Slavíka",
+    "vok": "Slavíku",
+    "lok": "Slavíkovi",
+    "ins": "Slavíkem"
+   },
+   {
+    "nom": "Kuba",
+    "gen": "Kuby",
+    "dat": "Kubovi",
+    "aku": "Kubu",
+    "vok": "Kubo",
+    "lok": "Kubovi",
+    "ins": "Kubou"
+   },
+   {
+    "nom": "Štěpán",
+    "gen": "Štěpána",
+    "dat": "Štěpánovi",
+    "aku": "Štěpána",
+    "vok": "Štěpáne",
+    "lok": "Štěpánovi",
+    "ins": "Štěpánem"
+   },
+   {
+    "nom": "Vondráček",
+    "gen": "Vondráčka",
+    "dat": "Vondráčkovi",
+    "aku": "Vondráčka",
+    "vok": "Vondráčku",
+    "lok": "Vondráčkovi",
+    "ins": "Vondráčkem"
+   },
+   {
+    "nom": "Kubíček",
+    "gen": "Kubíčka",
+    "dat": "Kubíčkovi",
+    "aku": "Kubíčka",
+    "vok": "Kubíčku",
+    "lok": "Kubíčkovi",
+    "ins": "Kubíčkem"
+   },
+   {
+    "nom": "Hrubý",
+    "gen": "Hrubého",
+    "dat": "Hrubému",
+    "aku": "Hrubého",
+    "vok": "Hrubý",
+    "lok": "Hrubém",
+    "ins": "Hrubým"
+   },
+   {
+    "nom": "Bláha",
+    "gen": "Bláhy",
+    "dat": "Bláhovi",
+    "aku": "Bláhu",
+    "vok": "Bláho",
+    "lok": "Bláhovi",
+    "ins": "Bláhou"
+   },
+   {
+    "nom": "Doležel",
+    "gen": "Doležela",
+    "dat": "Doleželovi",
+    "aku": "Doležela",
+    "vok": "Doleželi",
+    "lok": "Doleželovi",
+    "ins": "Doleželem"
+   },
+   {
+    "nom": "Michalík",
+    "gen": "Michalíka",
+    "dat": "Michalíkovi",
+    "aku": "Michalíka",
+    "vok": "Michalíku",
+    "lok": "Michalíkovi",
+    "ins": "Michalíkem"
+   },
+   {
+    "nom": "Vacek",
+    "gen": "Vacka",
+    "dat": "Vackovi",
+    "aku": "Vacka",
+    "vok": "Vacku",
+    "lok": "Vackovi",
+    "ins": "Vackem"
+   },
+   {
+    "nom": "Kalous",
+    "gen": "Kalouse",
+    "dat": "Kalousovi",
+    "aku": "Kalouse",
+    "vok": "Kalousi",
+    "lok": "Kalousovi",
+    "ins": "Kalousem"
+   },
+   {
+    "nom": "Černoch",
+    "gen": "Černocha",
+    "dat": "Černochovi",
+    "aku": "Černocha",
+    "vok": "Černochu",
+    "lok": "Černochovi",
+    "ins": "Černochem"
+   },
+   {
+    "nom": "Peterka",
+    "gen": "Peterky",
+    "dat": "Peterkovi",
+    "aku": "Peterku",
+    "vok": "Peterko",
+    "lok": "Peterkovi",
+    "ins": "Peterkou"
+   },
+   {
+    "nom": "Ondráček",
+    "gen": "Ondráčka",
+    "dat": "Ondráčkovi",
+    "aku": "Ondráčka",
+    "vok": "Ondráčku",
+    "lok": "Ondráčkovi",
+    "ins": "Ondráčkem"
+   },
+   {
+    "nom": "Dostál",
+    "gen": "Dostála",
+    "dat": "Dostálovi",
+    "aku": "Dostála",
+    "vok": "Dostále",
+    "lok": "Dostálovi",
+    "ins": "Dostálem"
+   },
+   {
+    "nom": "Šulc",
+    "gen": "Šulce",
+    "dat": "Šulcovi",
+    "aku": "Šulce",
+    "vok": "Šulci",
+    "lok": "Šulcovi",
+    "ins": "Šulcem"
+   },
+   {
+    "nom": "Mazánek",
+    "gen": "Mazánka",
+    "dat": "Mazánkovi",
+    "aku": "Mazánka",
+    "vok": "Mazánku",
+    "lok": "Mazánkovi",
+    "ins": "Mazánkem"
+   },
+   {
+    "nom": "Franěk",
+    "gen": "Fraňka",
+    "dat": "Fraňkovi",
+    "aku": "Fraňka",
+    "vok": "Fraňku",
+    "lok": "Fraňkovi",
+    "ins": "Fraňkem"
+   },
+   {
+    "nom": "Vrba",
+    "gen": "Vrby",
+    "dat": "Vrbovi",
+    "aku": "Vrbu",
+    "vok": "Vrbo",
+    "lok": "Vrbovi",
+    "ins": "Vrbou"
+   },
+   {
+    "nom": "Vítek",
+    "gen": "Vítka",
+    "dat": "Vítkovi",
+    "aku": "Vítka",
+    "vok": "Vítku",
+    "lok": "Vítkovi",
+    "ins": "Vítkem"
+   },
+   {
+    "nom": "Bílý",
+    "gen": "Bílého",
+    "dat": "Bílému",
+    "aku": "Bílého",
+    "vok": "Bílý",
+    "lok": "Bílém",
+    "ins": "Bílým"
+   },
+   {
+    "nom": "Hošek",
+    "gen": "Hoška",
+    "dat": "Hoškovi",
+    "aku": "Hoška",
+    "vok": "Hošku",
+    "lok": "Hoškovi",
+    "ins": "Hoškem"
+   },
+   {
+    "nom": "Švec",
+    "gen": "Švece",
+    "dat": "Švecovi",
+    "aku": "Švece",
+    "vok": "Švecu",
+    "lok": "Švecovi",
+    "ins": "Švecem"
+   },
+   {
+    "nom": "Janoušek",
+    "gen": "Janouška",
+    "dat": "Janouškovi",
+    "aku": "Janouška",
+    "vok": "Janoušku",
+    "lok": "Janouškovi",
+    "ins": "Janouškem"
+   },
+   {
+    "nom": "Rybář",
+    "gen": "Rybáře",
+    "dat": "Rybářovi",
+    "aku": "Rybáře",
+    "vok": "Rybáři",
+    "lok": "Rybářovi",
+    "ins": "Rybářem"
+   },
+   {
+    "nom": "Šmíd",
+    "gen": "Šmída",
+    "dat": "Šmídovi",
+    "aku": "Šmída",
+    "vok": "Šmíde",
+    "lok": "Šmídovi",
+    "ins": "Šmídem"
+   },
+   {
+    "nom": "Pátek",
+    "gen": "Pátka",
+    "dat": "Pátkovi",
+    "aku": "Pátka",
+    "vok": "Pátku",
+    "lok": "Pátkovi",
+    "ins": "Pátkem"
+   },
+   {
+    "nom": "Křížek",
+    "gen": "Křížka",
+    "dat": "Křížkovi",
+    "aku": "Křížka",
+    "vok": "Křížku",
+    "lok": "Křížkovi",
+    "ins": "Křížkem"
+   },
+   {
+    "nom": "Paleček",
+    "gen": "Palečka",
+    "dat": "Palečkovi",
+    "aku": "Palečka",
+    "vok": "Palečku",
+    "lok": "Palečkovi",
+    "ins": "Palečkem"
+   },
+   {
+    "nom": "Hanák",
+    "gen": "Hanáka",
+    "dat": "Hanákovi",
+    "aku": "Hanáka",
+    "vok": "Hanáku",
+    "lok": "Hanákovi",
+    "ins": "Hanákem"
+   },
+   {
+    "nom": "Klíma",
+    "gen": "Klímy",
+    "dat": "Klímovi",
+    "aku": "Klímu",
+    "vok": "Klímo",
+    "lok": "Klímovi",
+    "ins": "Klímou"
+   },
+   {
+    "nom": "Kolařík",
+    "gen": "Kolaříka",
+    "dat": "Kolaříkovi",
+    "aku": "Kolaříka",
+    "vok": "Kolaříku",
+    "lok": "Kolaříkovi",
+    "ins": "Kolaříkem"
+   },
+   {
+    "nom": "Pešek",
+    "gen": "Peška",
+    "dat": "Peškovi",
+    "aku": "Peška",
+    "vok": "Pešku",
+    "lok": "Peškovi",
+    "ins": "Peškem"
+   },
+   {
+    "nom": "Nový",
+    "gen": "Nového",
+    "dat": "Novému",
+    "aku": "Nového",
+    "vok": "Nový",
+    "lok": "Novém",
+    "ins": "Novým"
+   },
+   {
+    "nom": "Pech",
+    "gen": "Pecha",
+    "dat": "Pechovi",
+    "aku": "Pecha",
+    "vok": "Peše",
+    "lok": "Pechovi",
+    "ins": "Pechem"
+   },
+   {
+    "nom": "Hlaváček",
+    "gen": "Hlaváčka",
+    "dat": "Hlaváčkovi",
+    "aku": "Hlaváčka",
+    "vok": "Hlaváčku",
+    "lok": "Hlaváčkovi",
+    "ins": "Hlaváčkem"
+   },
+   {
+    "nom": "Sladký",
+    "gen": "Sladkého",
+    "dat": "Sladkému",
+    "aku": "Sladkého",
+    "vok": "Sladký",
+    "lok": "Sladkém",
+    "ins": "Sladkým"
+   },
+   {
+    "nom": "Jirásek",
+    "gen": "Jiráska",
+    "dat": "Jiráskovi",
+    "aku": "Jiráska",
+    "vok": "Jirásku",
+    "lok": "Jiráskovi",
+    "ins": "Jiráskem"
+   },
+   {
+    "nom": "Liška",
+    "gen": "Lišky",
+    "dat": "Liškovi",
+    "aku": "Lišku",
+    "vok": "Liško",
+    "lok": "Liškovi",
+    "ins": "Liškou"
+   },
+   {
+    "nom": "Šimůnek",
+    "gen": "Šimůnka",
+    "dat": "Šimůnkovi",
+    "aku": "Šimůnka",
+    "vok": "Šimůnku",
+    "lok": "Šimůnkovi",
+    "ins": "Šimůnkem"
+   },
+   {
+    "nom": "Janáček",
+    "gen": "Janáčka",
+    "dat": "Janáčkovi",
+    "aku": "Janáčka",
+    "vok": "Janáčku",
+    "lok": "Janáčkovi",
+    "ins": "Janáčkem"
+   },
+   {
+    "nom": "Mašek",
+    "gen": "Maška",
+    "dat": "Maškovi",
+    "aku": "Maška",
+    "vok": "Mašku",
+    "lok": "Maškovi",
+    "ins": "Maškem"
+   },
+   {
+    "nom": "Brož",
+    "gen": "Brože",
+    "dat": "Brožovi",
+    "aku": "Brože",
+    "vok": "Brožií",
+    "lok": "Brožovi",
+    "ins": "Brožem"
+   },
+   {
+    "nom": "Vlach",
+    "gen": "Vlacha",
+    "dat": "Vlachovi",
+    "aku": "Vlacha",
+    "vok": "Vlachu",
+    "lok": "Vlachovi",
+    "ins": "Vlachem"
+   },
+   {
+    "nom": "Prokop",
+    "gen": "Prokopa",
+    "dat": "Prokopovi",
+    "aku": "Prokopa",
+    "vok": "Prokope",
+    "lok": "Prokopovi",
+    "ins": "Prokopem"
+   },
+   {
+    "nom": "Jareš",
+    "gen": "Jareše",
+    "dat": "Marešovi",
+    "aku": "Jareše",
+    "vok": "Jareši",
+    "lok": "Marešovi",
+    "ins": "Marešem"
+   },
+   {
+    "nom": "Mikulášek",
+    "gen": "Mikuláška",
+    "dat": "Mikuláškovi",
+    "aku": "Mikuláška",
+    "vok": "Mikulášku",
+    "lok": "Mikuláškovi",
+    "ins": "Mikuláškem"
+   },
+   {
+    "nom": "Hanuš",
+    "gen": "Hanuše",
+    "dat": "Hanušovi",
+    "aku": "Hanuše",
+    "vok": "Hanuši",
+    "lok": "Hanušovi",
+    "ins": "Hanušem"
+   },
+   {
+    "nom": "Šafránek",
+    "gen": "Šafránka",
+    "dat": "Šafránkovi",
+    "aku": "Šafránka",
+    "vok": "Šafránku",
+    "lok": "Šafránkovi",
+    "ins": "Šafránkem"
+   }
+  ]
+ },
+ "zena": {
+  "jmena": [
+   {
+    "nom": "Jana",
+    "gen": "Jany",
+    "dat": "Janě",
+    "aku": "Janu",
+    "vok": "Jano",
+    "lok": "Janě",
+    "ins": "Janou"
+   },
+   {
+    "nom": "Marie",
+    "gen": "Marie",
+    "dat": "Marii",
+    "aku": "Marii",
+    "vok": "Marie",
+    "lok": "Marii",
+    "ins": "Marií"
+   },
+   {
+    "nom": "Eva",
+    "gen": "Evy",
+    "dat": "Evě",
+    "aku": "Evu",
+    "vok": "Evo",
+    "lok": "Evě",
+    "ins": "Evou"
+   },
+   {
+    "nom": "Hana",
+    "gen": "Hany",
+    "dat": "Haně",
+    "aku": "Hanu",
+    "vok": "Hano",
+    "lok": "Haně",
+    "ins": "Hanou"
+   },
+   {
+    "nom": "Anna",
+    "gen": "Anny",
+    "dat": "Anně",
+    "aku": "Annu",
+    "vok": "Anno",
+    "lok": "Anně",
+    "ins": "Annou"
+   },
+   {
+    "nom": "Lenka",
+    "gen": "Lenky",
+    "dat": "Lence",
+    "aku": "Lenku",
+    "vok": "Lenko",
+    "lok": "Lence",
+    "ins": "Lenkou"
+   },
+   {
+    "nom": "Kateřina",
+    "gen": "Kateřiny",
+    "dat": "Kateřině",
+    "aku": "Kateřinu",
+    "vok": "Kateřino",
+    "lok": "Kateřině",
+    "ins": "Kateřinou"
+   },
+   {
+    "nom": "Lucie",
+    "gen": "Lucie",
+    "dat": "Lucii",
+    "aku": "Lucii",
+    "vok": "Lucie",
+    "lok": "Lucii",
+    "ins": "Lucií"
+   },
+   {
+    "nom": "Petra",
+    "gen": "Petry",
+    "dat": "Petře",
+    "aku": "Petru",
+    "vok": "Petro",
+    "lok": "Petře",
+    "ins": "Petrou"
+   },
+   {
+    "nom": "Věra",
+    "gen": "Věry",
+    "dat": "Věře",
+    "aku": "Věru",
+    "vok": "Věro",
+    "lok": "Věře",
+    "ins": "Věrou"
+   },
+   {
+    "nom": "Alena",
+    "gen": "Aleny",
+    "dat": "Aleně",
+    "aku": "Alenu",
+    "vok": "Aleno",
+    "lok": "Aleně",
+    "ins": "Alenou"
+   },
+   {
+    "nom": "Jaroslava",
+    "gen": "Jaroslavy",
+    "dat": "Jaroslavě",
+    "aku": "Jaroslavu",
+    "vok": "Jaroslavo",
+    "lok": "Jaroslavě",
+    "ins": "Jaroslavou"
+   },
+   {
+    "nom": "Ludmila",
+    "gen": "Ludmily",
+    "dat": "Ludmile",
+    "aku": "Ludmilu",
+    "vok": "Ludmilo",
+    "lok": "Ludmile",
+    "ins": "Ludmilou"
+   },
+   {
+    "nom": "Marcela",
+    "gen": "Marcely",
+    "dat": "Marcele",
+    "aku": "Marcelu",
+    "vok": "Marcelo",
+    "lok": "Marcele",
+    "ins": "Marcelou"
+   },
+   {
+    "nom": "Jitka",
+    "gen": "Jitky",
+    "dat": "Jitce",
+    "aku": "Jitku",
+    "vok": "Jitko",
+    "lok": "Jitce",
+    "ins": "Jitkou"
+   },
+   {
+    "nom": "Helena",
+    "gen": "Heleny",
+    "dat": "Heleně",
+    "aku": "Helenu",
+    "vok": "Heleno",
+    "lok": "Heleně",
+    "ins": "Helenou"
+   },
+   {
+    "nom": "Martina",
+    "gen": "Martiny",
+    "dat": "Martině",
+    "aku": "Martinu",
+    "vok": "Martino",
+    "lok": "Martině",
+    "ins": "Martinou"
+   },
+   {
+    "nom": "Zuzana",
+    "gen": "Zuzany",
+    "dat": "Zuzaně",
+    "aku": "Zuzanu",
+    "vok": "Zuzano",
+    "lok": "Zuzaně",
+    "ins": "Zuzanou"
+   },
+   {
+    "nom": "Markéta",
+    "gen": "Markéty",
+    "dat": "Markétě",
+    "aku": "Markétu",
+    "vok": "Markéto",
+    "lok": "Markétě",
+    "ins": "Markétou"
+   },
+   {
+    "nom": "Michaela",
+    "gen": "Michaely",
+    "dat": "Michaele",
+    "aku": "Michaelu",
+    "vok": "Michaelo",
+    "lok": "Michaele",
+    "ins": "Michaelou"
+   },
+   {
+    "nom": "Jiřina",
+    "gen": "Jiřiny",
+    "dat": "Jiřině",
+    "aku": "Jiřinu",
+    "vok": "Jiřino",
+    "lok": "Jiřině",
+    "ins": "Jiřinou"
+   },
+   {
+    "nom": "Monika",
+    "gen": "Moniky",
+    "dat": "Monice",
+    "aku": "Moniku",
+    "vok": "Moniko",
+    "lok": "Monice",
+    "ins": "Monikou"
+   },
+   {
+    "nom": "Tereza",
+    "gen": "Terezy",
+    "dat": "Tereze",
+    "aku": "Terezu",
+    "vok": "Terezo",
+    "lok": "Tereze",
+    "ins": "Terezou"
+   },
+   {
+    "nom": "Zdeňka",
+    "gen": "Zdeňky",
+    "dat": "Zdeňce",
+    "aku": "Zdeňku",
+    "vok": "Zdeňko",
+    "lok": "Zdeňce",
+    "ins": "Zdeňkou"
+   },
+   {
+    "nom": "Ivana",
+    "gen": "Ivany",
+    "dat": "Ivaně",
+    "aku": "Ivanu",
+    "vok": "Ivano",
+    "lok": "Ivaně",
+    "ins": "Ivanou"
+   },
+   {
+    "nom": "Božena",
+    "gen": "Boženy",
+    "dat": "Boženě",
+    "aku": "Boženu",
+    "vok": "Božено",
+    "lok": "Boženě",
+    "ins": "Boženou"
+   },
+   {
+    "nom": "Veronika",
+    "gen": "Veroniky",
+    "dat": "Veronice",
+    "aku": "Veroniku",
+    "vok": "Veroniko",
+    "lok": "Veronice",
+    "ins": "Veronikou"
+   },
+   {
+    "nom": "Eliška",
+    "gen": "Elišky",
+    "dat": "Elišce",
+    "aku": "Elišku",
+    "vok": "Eliško",
+    "lok": "Elišce",
+    "ins": "Eliškou"
+   },
+   {
+    "nom": "Barbora",
+    "gen": "Barbory",
+    "dat": "Barboře",
+    "aku": "Barboru",
+    "vok": "Barboro",
+    "lok": "Barboře",
+    "ins": "Barborou"
+   },
+   {
+    "nom": "Dagmar",
+    "gen": "Dagmar",
+    "dat": "Dagmar",
+    "aku": "Dagmar",
+    "vok": "Dagmar",
+    "lok": "Dagmar",
+    "ins": "Dagmar"
+   },
+   {
+    "nom": "Pavla",
+    "gen": "Pavly",
+    "dat": "Pavle",
+    "aku": "Pavlu",
+    "vok": "Pavlo",
+    "lok": "Pavle",
+    "ins": "Pavlou"
+   },
+   {
+    "nom": "Jarmila",
+    "gen": "Jarmily",
+    "dat": "Jarmile",
+    "aku": "Jarmilu",
+    "vok": "Jarmilo",
+    "lok": "Jarmile",
+    "ins": "Jarmilou"
+   },
+   {
+    "nom": "Miroslava",
+    "gen": "Miroslavy",
+    "dat": "Miroslavě",
+    "aku": "Miroslavu",
+    "vok": "Miroslavo",
+    "lok": "Miroslavě",
+    "ins": "Miroslavou"
+   },
+   {
+    "nom": "Dana",
+    "gen": "Dany",
+    "dat": "Daně",
+    "aku": "Danu",
+    "vok": "Dano",
+    "lok": "Daně",
+    "ins": "Danou"
+   },
+   {
+    "nom": "Vlasta",
+    "gen": "Vlasty",
+    "dat": "Vlastě",
+    "aku": "Vlastu",
+    "vok": "Vlasto",
+    "lok": "Vlastě",
+    "ins": "Vlastou"
+   },
+   {
+    "nom": "Irena",
+    "gen": "Ireny",
+    "dat": "Ireně",
+    "aku": "Irenu",
+    "vok": "Ireno",
+    "lok": "Ireně",
+    "ins": "Irenou"
+   },
+   {
+    "nom": "Milada",
+    "gen": "Milady",
+    "dat": "Miladě",
+    "aku": "Miladu",
+    "vok": "Milado",
+    "lok": "Miladě",
+    "ins": "Miladou"
+   },
+   {
+    "nom": "Olga",
+    "gen": "Olgy",
+    "dat": "Olze",
+    "aku": "Olgu",
+    "vok": "Olgo",
+    "lok": "Olze",
+    "ins": "Olgou"
+   },
+   {
+    "nom": "Libuše",
+    "gen": "Libuše",
+    "dat": "Libuši",
+    "aku": "Libuši",
+    "vok": "Libuše",
+    "lok": "Libuši",
+    "ins": "Libuší"
+   },
+   {
+    "nom": "Andrea",
+    "gen": "Andrey",
+    "dat": "Andree",
+    "aku": "Andreu",
+    "vok": "Andreo",
+    "lok": "Andree",
+    "ins": "Andreou"
+   },
+   {
+    "nom": "Renata",
+    "gen": "Renaty",
+    "dat": "Renatě",
+    "aku": "Renatu",
+    "vok": "Renato",
+    "lok": "Renatě",
+    "ins": "Renatou"
+   },
+   {
+    "nom": "Blanka",
+    "gen": "Blanky",
+    "dat": "Blance",
+    "aku": "Blanku",
+    "vok": "Blanko",
+    "lok": "Blance",
+    "ins": "Blankou"
+   },
+   {
+    "nom": "Simona",
+    "gen": "Simony",
+    "dat": "Simoně",
+    "aku": "Simonu",
+    "vok": "Simono",
+    "lok": "Simoně",
+    "ins": "Simonou"
+   },
+   {
+    "nom": "Kristýna",
+    "gen": "Kristýny",
+    "dat": "Kristýně",
+    "aku": "Kristýnu",
+    "vok": "Kristýno",
+    "lok": "Kristýně",
+    "ins": "Kristýnou"
+   },
+   {
+    "nom": "Klára",
+    "gen": "Kláry",
+    "dat": "Kláře",
+    "aku": "Kláru",
+    "vok": "Kláro",
+    "lok": "Kláře",
+    "ins": "Klárou"
+   },
+   {
+    "nom": "Marta",
+    "gen": "Marty",
+    "dat": "Martě",
+    "aku": "Martu",
+    "vok": "Marto",
+    "lok": "Martě",
+    "ins": "Martou"
+   },
+   {
+    "nom": "Hedvika",
+    "gen": "Hedviky",
+    "dat": "Hedvice",
+    "aku": "Hedviku",
+    "vok": "Hedviko",
+    "lok": "Hedvice",
+    "ins": "Hedvikou"
+   },
+   {
+    "nom": "Květoslava",
+    "gen": "Květoslavy",
+    "dat": "Květoslavě",
+    "aku": "Květoslavu",
+    "vok": "Květoslavo",
+    "lok": "Květoslavě",
+    "ins": "Květoslavou"
+   },
+   {
+    "nom": "Vladimíra",
+    "gen": "Vladimíry",
+    "dat": "Vladimíře",
+    "aku": "Vladimíru",
+    "vok": "Vladimíro",
+    "lok": "Vladimíře",
+    "ins": "Vladimírou"
+   },
+   {
+    "nom": "Daniela",
+    "gen": "Daniely",
+    "dat": "Daniele",
+    "aku": "Danielu",
+    "vok": "Danielo",
+    "lok": "Daniele",
+    "ins": "Danielou"
+   },
+   {
+    "nom": "Iveta",
+    "gen": "Ivety",
+    "dat": "Ivetě",
+    "aku": "Ivetu",
+    "vok": "Iveto",
+    "lok": "Ivetě",
+    "ins": "Ivetou"
+   },
+   {
+    "nom": "Romana",
+    "gen": "Romany",
+    "dat": "Romaně",
+    "aku": "Romanu",
+    "vok": "Romano",
+    "lok": "Romaně",
+    "ins": "Romanou"
+   },
+   {
+    "nom": "Radka",
+    "gen": "Radky",
+    "dat": "Radce",
+    "aku": "Radku",
+    "vok": "Radko",
+    "lok": "Radce",
+    "ins": "Radkou"
+   },
+   {
+    "nom": "Šárka",
+    "gen": "Šárky",
+    "dat": "Šárce",
+    "aku": "Šárku",
+    "vok": "Šárko",
+    "lok": "Šárce",
+    "ins": "Šárkou"
+   },
+   {
+    "nom": "Nikola",
+    "gen": "Nikoly",
+    "dat": "Nikole",
+    "aku": "Nikolu",
+    "vok": "Nikolo",
+    "lok": "Nikole",
+    "ins": "Nikolou"
+   },
+   {
+    "nom": "Karolína",
+    "gen": "Karolíny",
+    "dat": "Karolíně",
+    "aku": "Karolínu",
+    "vok": "Karolíno",
+    "lok": "Karolíně",
+    "ins": "Karolínou"
+   },
+   {
+    "nom": "Adéla",
+    "gen": "Adély",
+    "dat": "Adéle",
+    "aku": "Adélu",
+    "vok": "Adélo",
+    "lok": "Adéle",
+    "ins": "Adélou"
+   },
+   {
+    "nom": "Gabriela",
+    "gen": "Gabriely",
+    "dat": "Gabriele",
+    "aku": "Gabrielu",
+    "vok": "Gabrielo",
+    "lok": "Gabriele",
+    "ins": "Gabrielou"
+   },
+   {
+    "nom": "Natálie",
+    "gen": "Natálie",
+    "dat": "Natálii",
+    "aku": "Natálii",
+    "vok": "Natálie",
+    "lok": "Natálii",
+    "ins": "Natálií"
+   },
+   {
+    "nom": "Denisa",
+    "gen": "Denisy",
+    "dat": "Denise",
+    "aku": "Denisu",
+    "vok": "Deniso",
+    "lok": "Denise",
+    "ins": "Denisou"
+   },
+   {
+    "nom": "Kamila",
+    "gen": "Kamily",
+    "dat": "Kamile",
+    "aku": "Kamilu",
+    "vok": "Kamilo",
+    "lok": "Kamile",
+    "ins": "Kamilou"
+   },
+   {
+    "nom": "Stanislava",
+    "gen": "Stanislavy",
+    "dat": "Stanislavě",
+    "aku": "Stanislavu",
+    "vok": "Stanislavo",
+    "lok": "Stanislavě",
+    "ins": "Stanislavou"
+   },
+   {
+    "nom": "Drahomíra",
+    "gen": "Drahomíry",
+    "dat": "Drahomíře",
+    "aku": "Drahomíru",
+    "vok": "Drahomíro",
+    "lok": "Drahomíře",
+    "ins": "Drahomírou"
+   },
+   {
+    "nom": "Růžena",
+    "gen": "Růženy",
+    "dat": "Růženě",
+    "aku": "Růženu",
+    "vok": "Růženo",
+    "lok": "Růženě",
+    "ins": "Růžena"
+   },
+   {
+    "nom": "Emilie",
+    "gen": "Emilie",
+    "dat": "Emilii",
+    "aku": "Emilii",
+    "vok": "Emilie",
+    "lok": "Emilii",
+    "ins": "Emilií"
+   },
+   {
+    "nom": "Naděžda",
+    "gen": "Naděždy",
+    "dat": "Naděždě",
+    "aku": "Naděždu",
+    "vok": "Naděždo",
+    "lok": "Naděždě",
+    "ins": "Naděždou"
+   },
+   {
+    "nom": "Pavlína",
+    "gen": "Pavlíny",
+    "dat": "Pavlíně",
+    "aku": "Pavlínu",
+    "vok": "Pavlíno",
+    "lok": "Pavlíně",
+    "ins": "Pavlínou"
+   },
+   {
+    "nom": "Jindřiška",
+    "gen": "Jindřišky",
+    "dat": "Jindřišce",
+    "aku": "Jindřišku",
+    "vok": "Jindřiško",
+    "lok": "Jindřišce",
+    "ins": "Jindřiškou"
+   },
+   {
+    "nom": "Magdalena",
+    "gen": "Magdaleny",
+    "dat": "Magdaleně",
+    "aku": "Magdalenu",
+    "vok": "Magdaleno",
+    "lok": "Magdaleně",
+    "ins": "Magdalenou"
+   },
+   {
+    "nom": "Lada",
+    "gen": "Lady",
+    "dat": "Ladě",
+    "aku": "Ladu",
+    "vok": "Lado",
+    "lok": "Ladě",
+    "ins": "Ladou"
+   },
+   {
+    "nom": "Danuše",
+    "gen": "Danuše",
+    "dat": "Danuši",
+    "aku": "Danuši",
+    "vok": "Danuše",
+    "lok": "Danuši",
+    "ins": "Danuší"
+   },
+   {
+    "nom": "Silvie",
+    "gen": "Silvie",
+    "dat": "Silvii",
+    "aku": "Silvii",
+    "vok": "Silvie",
+    "lok": "Silvii",
+    "ins": "Silvií"
+   },
+   {
+    "nom": "Iva",
+    "gen": "Ivy",
+    "dat": "Ivě",
+    "aku": "Ivu",
+    "vok": "Ivo",
+    "lok": "Ivě",
+    "ins": "Ivou"
+   },
+   {
+    "nom": "Bohumila",
+    "gen": "Bohumily",
+    "dat": "Bohumile",
+    "aku": "Bohumilu",
+    "vok": "Bohumilo",
+    "lok": "Bohumile",
+    "ins": "Bohumilou"
+   },
+   {
+    "nom": "Zora",
+    "gen": "Zory",
+    "dat": "Zoře",
+    "aku": "Zoru",
+    "vok": "Zoro",
+    "lok": "Zoře",
+    "ins": "Zorou"
+   },
+   {
+    "nom": "Zita",
+    "gen": "Zity",
+    "dat": "Zitě",
+    "aku": "Zitu",
+    "vok": "Zito",
+    "lok": "Zitě",
+    "ins": "Zitou"
+   },
+   {
+    "nom": "Dita",
+    "gen": "Dity",
+    "dat": "Ditě",
+    "aku": "Ditu",
+    "vok": "Dito",
+    "lok": "Ditě",
+    "ins": "Ditou"
+   },
+   {
+    "nom": "Taťána",
+    "gen": "Taťány",
+    "dat": "Taťáně",
+    "aku": "Taťánu",
+    "vok": "Taťáno",
+    "lok": "Taťáně",
+    "ins": "Taťánou"
+   },
+   {
+    "nom": "Vendula",
+    "gen": "Vendule",
+    "dat": "Vendule",
+    "aku": "Vendulu",
+    "vok": "Vendulo",
+    "lok": "Vendule",
+    "ins": "Vendulou"
+   },
+   {
+    "nom": "Ilona",
+    "gen": "Ilony",
+    "dat": "Ilońě",
+    "aku": "Ilonu",
+    "vok": "Ilono",
+    "lok": "Ilońě",
+    "ins": "Ilonou"
+   },
+   {
+    "nom": "Rozálie",
+    "gen": "Rozálie",
+    "dat": "Rozálii",
+    "aku": "Rozálii",
+    "vok": "Rozálie",
+    "lok": "Rozálii",
+    "ins": "Rozálií"
+   },
+   {
+    "nom": "Aneta",
+    "gen": "Anety",
+    "dat": "Anetě",
+    "aku": "Anetu",
+    "vok": "Aneto",
+    "lok": "Anetě",
+    "ins": "Anetou"
+   },
+   {
+    "nom": "Nela",
+    "gen": "Nely",
+    "dat": "Nele",
+    "aku": "Nelu",
+    "vok": "Nelo",
+    "lok": "Nele",
+    "ins": "Nelou"
+   },
+   {
+    "nom": "Tamara",
+    "gen": "Tamary",
+    "dat": "Tamaře",
+    "aku": "Tamaru",
+    "vok": "Tamaro",
+    "lok": "Tamaře",
+    "ins": "Tamarou"
+   },
+   {
+    "nom": "Sabina",
+    "gen": "Sabiny",
+    "dat": "Sabině",
+    "aku": "Sabinu",
+    "vok": "Sabino",
+    "lok": "Sabině",
+    "ins": "Sabinou"
+   },
+   {
+    "nom": "Sára",
+    "gen": "Sáry",
+    "dat": "Sáře",
+    "aku": "Sáru",
+    "vok": "Sáro",
+    "lok": "Sáře",
+    "ins": "Sárou"
+   },
+   {
+    "nom": "Ema",
+    "gen": "Emy",
+    "dat": "Emě",
+    "aku": "Emu",
+    "vok": "Emo",
+    "lok": "Emě",
+    "ins": "Emou"
+   },
+   {
+    "nom": "Viktorie",
+    "gen": "Viktorie",
+    "dat": "Viktorii",
+    "aku": "Viktorii",
+    "vok": "Viktorie",
+    "lok": "Viktorii",
+    "ins": "Viktorií"
+   },
+   {
+    "nom": "Julie",
+    "gen": "Julie",
+    "dat": "Julii",
+    "aku": "Julii",
+    "vok": "Julie",
+    "lok": "Julii",
+    "ins": "Julií"
+   },
+   {
+    "nom": "Bára",
+    "gen": "Báry",
+    "dat": "Báře",
+    "aku": "Báru",
+    "vok": "Báro",
+    "lok": "Báře",
+    "ins": "Bárou"
+   },
+   {
+    "nom": "Hanka",
+    "gen": "Hanky",
+    "dat": "Hance",
+    "aku": "Hanku",
+    "vok": "Hanko",
+    "lok": "Hance",
+    "ins": "Hankou"
+   },
+   {
+    "nom": "Anežka",
+    "gen": "Anežky",
+    "dat": "Anežce",
+    "aku": "Anežku",
+    "vok": "Anežko",
+    "lok": "Anežce",
+    "ins": "Anežkou"
+   },
+   {
+    "nom": "Alžběta",
+    "gen": "Alžběty",
+    "dat": "Alžbětě",
+    "aku": "Alžbětu",
+    "vok": "Alžběto",
+    "lok": "Alžbětě",
+    "ins": "Alžbětou"
+   },
+   {
+    "nom": "Johana",
+    "gen": "Johany",
+    "dat": "Johaně",
+    "aku": "Johanu",
+    "vok": "Johano",
+    "lok": "Johaně",
+    "ins": "Johanou"
+   },
+   {
+    "nom": "Štěpánka",
+    "gen": "Štěpánky",
+    "dat": "Štěpánce",
+    "aku": "Štěpánku",
+    "vok": "Štěpánko",
+    "lok": "Štěpánce",
+    "ins": "Štěpánkou"
+   },
+   {
+    "nom": "Svatava",
+    "gen": "Svatavy",
+    "dat": "Svatavě",
+    "aku": "Svatavu",
+    "vok": "Svatavo",
+    "lok": "Svatavě",
+    "ins": "Svatavou"
+   },
+   {
+    "nom": "Ladislava",
+    "gen": "Ladislavy",
+    "dat": "Ladislavě",
+    "aku": "Ladislavu",
+    "vok": "Ladislavo",
+    "lok": "Ladislavě",
+    "ins": "Ladislavou"
+   },
+   {
+    "nom": "Oldřiška",
+    "gen": "Oldřišky",
+    "dat": "Oldřišce",
+    "aku": "Oldřišku",
+    "vok": "Oldřiško",
+    "lok": "Oldřišce",
+    "ins": "Oldřiškou"
+   },
+   {
+    "nom": "Zlata",
+    "gen": "Zlaty",
+    "dat": "Zlatě",
+    "aku": "Zlatu",
+    "vok": "Zlato",
+    "lok": "Zlatě",
+    "ins": "Zlatou"
+   },
+   {
+    "nom": "Dobromila",
+    "gen": "Dobromily",
+    "dat": "Dobromile",
+    "aku": "Dobromilu",
+    "vok": "Dobromilo",
+    "lok": "Dobromile",
+    "ins": "Dobromilou"
+   },
+   {
+    "nom": "Věroslava",
+    "gen": "Věroslavy",
+    "dat": "Věroslavě",
+    "aku": "Věroslavu",
+    "vok": "Věroslavo",
+    "lok": "Věroslavě",
+    "ins": "Věroslavou"
+   },
+   {
+    "nom": "Ivona",
+    "gen": "Ivony",
+    "dat": "Ivoně",
+    "aku": "Ivonu",
+    "vok": "Ivono",
+    "lok": "Ivoně",
+    "ins": "Ivonou"
+   },
+   {
+    "nom": "Lívia",
+    "gen": "Lívie",
+    "dat": "Lívii",
+    "aku": "Lívii",
+    "vok": "Lívie",
+    "lok": "Lívii",
+    "ins": "Lívií"
+   },
+   {
+    "nom": "Lída",
+    "gen": "Lídy",
+    "dat": "Lídě",
+    "aku": "Lídu",
+    "vok": "Lído",
+    "lok": "Lídě",
+    "ins": "Lídou"
+   },
+   {
+    "nom": "Linda",
+    "gen": "Lindy",
+    "dat": "Lindě",
+    "aku": "Lindu",
+    "vok": "Lindo",
+    "lok": "Lindě",
+    "ins": "Lindou"
+   },
+   {
+    "nom": "Laura",
+    "gen": "Laury",
+    "dat": "Lauře",
+    "aku": "Lauru",
+    "vok": "Lauro",
+    "lok": "Lauře",
+    "ins": "Laurou"
+   },
+   {
+    "nom": "Karla",
+    "gen": "Karly",
+    "dat": "Karle",
+    "aku": "Karlu",
+    "vok": "Karlo",
+    "lok": "Karle",
+    "ins": "Karlou"
+   },
+   {
+    "nom": "Kristina",
+    "gen": "Kristiny",
+    "dat": "Kristině",
+    "aku": "Kristinu",
+    "vok": "Kristino",
+    "lok": "Kristině",
+    "ins": "Kristinou"
+   },
+   {
+    "nom": "Terezie",
+    "gen": "Terezie",
+    "dat": "Terezii",
+    "aku": "Terezii",
+    "vok": "Terezie",
+    "lok": "Terezii",
+    "ins": "Terezií"
+   },
+   {
+    "nom": "Slavěna",
+    "gen": "Slavěny",
+    "dat": "Slavěně",
+    "aku": "Slavěnu",
+    "vok": "Slavěno",
+    "lok": "Slavěně",
+    "ins": "Slavěnou"
+   },
+   {
+    "nom": "Jolana",
+    "gen": "Jolany",
+    "dat": "Jolaně",
+    "aku": "Jolanu",
+    "vok": "Jolano",
+    "lok": "Jolaně",
+    "ins": "Jolanou"
+   },
+   {
+    "nom": "Alice",
+    "gen": "Alice",
+    "dat": "Alici",
+    "aku": "Alici",
+    "vok": "Alice",
+    "lok": "Alici",
+    "ins": "Alicí"
+   },
+   {
+    "nom": "Edita",
+    "gen": "Edity",
+    "dat": "Editě",
+    "aku": "Editu",
+    "vok": "Edito",
+    "lok": "Editě",
+    "ins": "Editou"
+   },
+   {
+    "nom": "Alexandra",
+    "gen": "Alexandry",
+    "dat": "Alexandře",
+    "aku": "Alexandru",
+    "vok": "Alexandro",
+    "lok": "Alexandře",
+    "ins": "Alexandrou"
+   },
+   {
+    "nom": "Lea",
+    "gen": "Ley",
+    "dat": "Lee",
+    "aku": "Leu",
+    "vok": "Leo",
+    "lok": "Lee",
+    "ins": "Leou"
+   },
+   {
+    "nom": "Mirka",
+    "gen": "Mirky",
+    "dat": "Mirce",
+    "aku": "Mirku",
+    "vok": "Mirko",
+    "lok": "Mirce",
+    "ins": "Mirkou"
+   },
+   {
+    "nom": "Sofie",
+    "gen": "Sofie",
+    "dat": "Sofii",
+    "aku": "Sofii",
+    "vok": "Sofie",
+    "lok": "Sofii",
+    "ins": "Sofií"
+   },
+   {
+    "nom": "Amálie",
+    "gen": "Amálie",
+    "dat": "Amálii",
+    "aku": "Amálii",
+    "vok": "Amálie",
+    "lok": "Amálii",
+    "ins": "Amálií"
+   },
+   {
+    "nom": "Josefa",
+    "gen": "Josefy",
+    "dat": "Josefě",
+    "aku": "Josefu",
+    "vok": "Josefo",
+    "lok": "Josefě",
+    "ins": "Josefou"
+   },
+   {
+    "nom": "Františka",
+    "gen": "Františky",
+    "dat": "Františce",
+    "aku": "Františku",
+    "vok": "Františko",
+    "lok": "Františce",
+    "ins": "Františkou"
+   },
+   {
+    "nom": "Antonie",
+    "gen": "Antonie",
+    "dat": "Antonii",
+    "aku": "Antonii",
+    "vok": "Antonie",
+    "lok": "Antonii",
+    "ins": "Antonií"
+   },
+   {
+    "nom": "Berta",
+    "gen": "Berty",
+    "dat": "Bertě",
+    "aku": "Bertu",
+    "vok": "Berto",
+    "lok": "Bertě",
+    "ins": "Bertou"
+   },
+   {
+    "nom": "Bohdana",
+    "gen": "Bohdany",
+    "dat": "Bohdaně",
+    "aku": "Bohdanu",
+    "vok": "Bohdano",
+    "lok": "Bohdaně",
+    "ins": "Bohdanou"
+   },
+   {
+    "nom": "Branka",
+    "gen": "Branky",
+    "dat": "Brance",
+    "aku": "Branku",
+    "vok": "Branko",
+    "lok": "Brance",
+    "ins": "Brankou"
+   },
+   {
+    "nom": "Bronislava",
+    "gen": "Bronislavy",
+    "dat": "Bronislavě",
+    "aku": "Bronislavu",
+    "vok": "Bronislavo",
+    "lok": "Bronislavě",
+    "ins": "Bronislavou"
+   },
+   {
+    "nom": "Dáša",
+    "gen": "Dáši",
+    "dat": "Dáši",
+    "aku": "Dášu",
+    "vok": "Dášo",
+    "lok": "Dáši",
+    "ins": "Dášou"
+   },
+   {
+    "nom": "Hermína",
+    "gen": "Hermíny",
+    "dat": "Hermíně",
+    "aku": "Hermínu",
+    "vok": "Hermíno",
+    "lok": "Hermíně",
+    "ins": "Hermínou"
+   },
+   {
+    "nom": "Judita",
+    "gen": "Judity",
+    "dat": "Juditě",
+    "aku": "Juditu",
+    "vok": "Judito",
+    "lok": "Juditě",
+    "ins": "Juditou"
+   },
+   {
+    "nom": "Katarína",
+    "gen": "Kataríny",
+    "dat": "Kataríně",
+    "aku": "Katarínu",
+    "vok": "Kataríno",
+    "lok": "Kataríně",
+    "ins": "Katarínou"
+   },
+   {
+    "nom": "Květa",
+    "gen": "Květy",
+    "dat": "Květě",
+    "aku": "Květu",
+    "vok": "Květo",
+    "lok": "Květě",
+    "ins": "Květou"
+   },
+   {
+    "nom": "Margita",
+    "gen": "Margity",
+    "dat": "Margitě",
+    "aku": "Margitu",
+    "vok": "Margito",
+    "lok": "Margitě",
+    "ins": "Margitou"
+   },
+   {
+    "nom": "Miluše",
+    "gen": "Miluše",
+    "dat": "Miluši",
+    "aku": "Miluši",
+    "vok": "Miluše",
+    "lok": "Miluši",
+    "ins": "Miluší"
+   },
+   {
+    "nom": "Vanda",
+    "gen": "Vandy",
+    "dat": "Vandě",
+    "aku": "Vandu",
+    "vok": "Vando",
+    "lok": "Vandě",
+    "ins": "Vandou"
+   },
+   {
+    "nom": "Vilma",
+    "gen": "Vilmy",
+    "dat": "Vilmě",
+    "aku": "Vilmu",
+    "vok": "Vilmo",
+    "lok": "Vilmě",
+    "ins": "Vilmou"
+   },
+   {
+    "nom": "Zdena",
+    "gen": "Zdeny",
+    "dat": "Zdeně",
+    "aku": "Zdenu",
+    "vok": "Zdeno",
+    "lok": "Zdeně",
+    "ins": "Zdenou"
+   },
+   {
+    "nom": "Žaneta",
+    "gen": "Žanety",
+    "dat": "Žanetě",
+    "aku": "Žanetu",
+    "vok": "Žaneto",
+    "lok": "Žanetě",
+    "ins": "Žanetou"
+   },
+   {
+    "nom": "Soňa",
+    "gen": "Soni",
+    "dat": "Soně",
+    "aku": "Soňu",
+    "vok": "Soňo",
+    "lok": "Soně",
+    "ins": "Soňou"
+   },
+   {
+    "nom": "Žofie",
+    "gen": "Žofie",
+    "dat": "Žofii",
+    "aku": "Žofii",
+    "vok": "Žofie",
+    "lok": "Žofii",
+    "ins": "Žofií"
+   },
+   {
+    "nom": "Eleonora",
+    "gen": "Eleonory",
+    "dat": "Eleonoře",
+    "aku": "Eleonoru",
+    "vok": "Eleonoro",
+    "lok": "Eleonoře",
+    "ins": "Eleonorou"
+   },
+   {
+    "nom": "Gita",
+    "gen": "Gity",
+    "dat": "Gitě",
+    "aku": "Gitu",
+    "vok": "Gito",
+    "lok": "Gitě",
+    "ins": "Gitou"
+   },
+   {
+    "nom": "Radmila",
+    "gen": "Radmily",
+    "dat": "Radmile",
+    "aku": "Radmilu",
+    "vok": "Radmilo",
+    "lok": "Radmile",
+    "ins": "Radmilou"
+   },
+   {
+    "nom": "Gizela",
+    "gen": "Gizely",
+    "dat": "Gizele",
+    "aku": "Gizelu",
+    "vok": "Gizelo",
+    "lok": "Gizele",
+    "ins": "Gizelou"
+   },
+   {
+    "nom": "Regina",
+    "gen": "Reginy",
+    "dat": "Regině",
+    "aku": "Reginu",
+    "vok": "Regino",
+    "lok": "Regině",
+    "ins": "Reginou"
+   },
+   {
+    "nom": "Dominika",
+    "gen": "Dominiky",
+    "dat": "Dominice",
+    "aku": "Dominiku",
+    "vok": "Dominiko",
+    "lok": "Dominice",
+    "ins": "Dominikou"
+   },
+   {
+    "nom": "Elena",
+    "gen": "Eleny",
+    "dat": "Eleně",
+    "aku": "Elenu",
+    "vok": "Eleno",
+    "lok": "Eleně",
+    "ins": "Elenou"
+   },
+   {
+    "nom": "Beáta",
+    "gen": "Beáty",
+    "dat": "Beátě",
+    "aku": "Beátu",
+    "vok": "Beáto",
+    "lok": "Beátě",
+    "ins": "Beátou"
+   },
+   {
+    "nom": "Mája",
+    "gen": "Máji",
+    "dat": "Máji",
+    "aku": "Máju",
+    "vok": "Májo",
+    "lok": "Máji",
+    "ins": "Májou"
+   },
+   {
+    "nom": "Lucka",
+    "gen": "Lucky",
+    "dat": "Lucce",
+    "aku": "Lucku",
+    "vok": "Lucko",
+    "lok": "Lucce",
+    "ins": "Luckou"
+   },
+   {
+    "nom": "Evženie",
+    "gen": "Evženie",
+    "dat": "Evženii",
+    "aku": "Evženii",
+    "vok": "Evženie",
+    "lok": "Evženii",
+    "ins": "Evženií"
+   },
+   {
+    "nom": "Olivie",
+    "gen": "Olivie",
+    "dat": "Olivii",
+    "aku": "Olivii",
+    "vok": "Olivie",
+    "lok": "Olivii",
+    "ins": "Olivií"
+   }
+  ],
+  "prijmeni": [
+   {
+    "nom": "Nováková",
+    "gen": "Novákové",
+    "dat": "Novákové",
+    "aku": "Novákovou",
+    "vok": "Nováková",
+    "lok": "Novákové",
+    "ins": "Novákovou"
+   },
+   {
+    "nom": "Svobodová",
+    "gen": "Svobodové",
+    "dat": "Svobodové",
+    "aku": "Svobodovou",
+    "vok": "Svobodová",
+    "lok": "Svobodové",
+    "ins": "Svobodovou"
+   },
+   {
+    "nom": "Novotná",
+    "gen": "Novotné",
+    "dat": "Novotné",
+    "aku": "Novotnou",
+    "vok": "Novotná",
+    "lok": "Novotné",
+    "ins": "Novotnou"
+   },
+   {
+    "nom": "Dvořáková",
+    "gen": "Dvořákové",
+    "dat": "Dvořákové",
+    "aku": "Dvořákovou",
+    "vok": "Dvořáková",
+    "lok": "Dvořákové",
+    "ins": "Dvořákovou"
+   },
+   {
+    "nom": "Černá",
+    "gen": "Černé",
+    "dat": "Černé",
+    "aku": "Černou",
+    "vok": "Černá",
+    "lok": "Černé",
+    "ins": "Černou"
+   },
+   {
+    "nom": "Procházková",
+    "gen": "Procházkové",
+    "dat": "Procházkové",
+    "aku": "Procházkovou",
+    "vok": "Procházková",
+    "lok": "Procházkové",
+    "ins": "Procházkovou"
+   },
+   {
+    "nom": "Kučerová",
+    "gen": "Kučerové",
+    "dat": "Kučerové",
+    "aku": "Kučerovou",
+    "vok": "Kučerová",
+    "lok": "Kučerové",
+    "ins": "Kučerovou"
+   },
+   {
+    "nom": "Veselá",
+    "gen": "Veselé",
+    "dat": "Veselé",
+    "aku": "Veselou",
+    "vok": "Veselá",
+    "lok": "Veselé",
+    "ins": "Veselou"
+   },
+   {
+    "nom": "Horáková",
+    "gen": "Horákové",
+    "dat": "Horákové",
+    "aku": "Horákovou",
+    "vok": "Horáková",
+    "lok": "Horákové",
+    "ins": "Horákovou"
+   },
+   {
+    "nom": "Němcová",
+    "gen": "Němcové",
+    "dat": "Němcové",
+    "aku": "Němcovou",
+    "vok": "Němcová",
+    "lok": "Němcové",
+    "ins": "Němcovou"
+   },
+   {
+    "nom": "Pokorná",
+    "gen": "Pokorné",
+    "dat": "Pokorné",
+    "aku": "Pokornou",
+    "vok": "Pokorná",
+    "lok": "Pokorné",
+    "ins": "Pokornou"
+   },
+   {
+    "nom": "Marková",
+    "gen": "Markové",
+    "dat": "Markové",
+    "aku": "Markovou",
+    "vok": "Marková",
+    "lok": "Markové",
+    "ins": "Markovou"
+   },
+   {
+    "nom": "Pospíšilová",
+    "gen": "Pospíšilové",
+    "dat": "Pospíšilové",
+    "aku": "Pospíšilovou",
+    "vok": "Pospíšilová",
+    "lok": "Pospíšilové",
+    "ins": "Pospíšilovou"
+   },
+   {
+    "nom": "Hájková",
+    "gen": "Hájkové",
+    "dat": "Hájkové",
+    "aku": "Hájkovou",
+    "vok": "Hájková",
+    "lok": "Hájkové",
+    "ins": "Hájkovou"
+   },
+   {
+    "nom": "Králová",
+    "gen": "Králové",
+    "dat": "Králové",
+    "aku": "Královou",
+    "vok": "Králová",
+    "lok": "Králové",
+    "ins": "Královou"
+   },
+   {
+    "nom": "Jelínková",
+    "gen": "Jelínkové",
+    "dat": "Jelínkové",
+    "aku": "Jelínkovou",
+    "vok": "Jelínková",
+    "lok": "Jelínkové",
+    "ins": "Jelínkovou"
+   },
+   {
+    "nom": "Růžičková",
+    "gen": "Růžičkové",
+    "dat": "Růžičkové",
+    "aku": "Růžičkovou",
+    "vok": "Růžičková",
+    "lok": "Růžičkové",
+    "ins": "Růžičkovou"
+   },
+   {
+    "nom": "Benešová",
+    "gen": "Benešové",
+    "dat": "Benešové",
+    "aku": "Benešovou",
+    "vok": "Benešová",
+    "lok": "Benešové",
+    "ins": "Benešovou"
+   },
+   {
+    "nom": "Fialová",
+    "gen": "Fialové",
+    "dat": "Fialové",
+    "aku": "Fialovou",
+    "vok": "Fialová",
+    "lok": "Fialové",
+    "ins": "Fialovou"
+   },
+   {
+    "nom": "Sedláčková",
+    "gen": "Sedláčkové",
+    "dat": "Sedláčkové",
+    "aku": "Sedláčkovou",
+    "vok": "Sedláčková",
+    "lok": "Sedláčkové",
+    "ins": "Sedláčkovou"
+   },
+   {
+    "nom": "Doležalová",
+    "gen": "Doležalové",
+    "dat": "Doležalové",
+    "aku": "Doležalovou",
+    "vok": "Doležalová",
+    "lok": "Doležalové",
+    "ins": "Doležalovou"
+   },
+   {
+    "nom": "Zemanová",
+    "gen": "Zemanové",
+    "dat": "Zemanové",
+    "aku": "Zemanovou",
+    "vok": "Zemanová",
+    "lok": "Zemanové",
+    "ins": "Zemanovou"
+   },
+   {
+    "nom": "Kolářová",
+    "gen": "Kolářové",
+    "dat": "Kolářové",
+    "aku": "Kolářovou",
+    "vok": "Kolářová",
+    "lok": "Kolářové",
+    "ins": "Kolářovou"
+   },
+   {
+    "nom": "Navrátilová",
+    "gen": "Navrátilové",
+    "dat": "Navrátilové",
+    "aku": "Navrátilovou",
+    "vok": "Navrátilová",
+    "lok": "Navrátilové",
+    "ins": "Navrátilovou"
+   },
+   {
+    "nom": "Čermáková",
+    "gen": "Čermákové",
+    "dat": "Čermákové",
+    "aku": "Čermákovou",
+    "vok": "Čermáková",
+    "lok": "Čermákové",
+    "ins": "Čermákovou"
+   },
+   {
+    "nom": "Vaňková",
+    "gen": "Vaňkové",
+    "dat": "Vaňkové",
+    "aku": "Vaňkovou",
+    "vok": "Vaňková",
+    "lok": "Vaňkové",
+    "ins": "Vaňkovou"
+   },
+   {
+    "nom": "Urbanová",
+    "gen": "Urbanové",
+    "dat": "Urbanové",
+    "aku": "Urbanovou",
+    "vok": "Urbanová",
+    "lok": "Urbanové",
+    "ins": "Urbanovou"
+   },
+   {
+    "nom": "Blažková",
+    "gen": "Blažkové",
+    "dat": "Blažkové",
+    "aku": "Blažkovou",
+    "vok": "Blažková",
+    "lok": "Blažkové",
+    "ins": "Blažkovou"
+   },
+   {
+    "nom": "Křížová",
+    "gen": "Křížové",
+    "dat": "Křížové",
+    "aku": "Křížovou",
+    "vok": "Křížová",
+    "lok": "Křížové",
+    "ins": "Křížovou"
+   },
+   {
+    "nom": "Kovářová",
+    "gen": "Kovářové",
+    "dat": "Kovářové",
+    "aku": "Kovářovou",
+    "vok": "Kovářová",
+    "lok": "Kovářové",
+    "ins": "Kovářovou"
+   },
+   {
+    "nom": "Bartošová",
+    "gen": "Bartošové",
+    "dat": "Bartošové",
+    "aku": "Bartošovou",
+    "vok": "Bartošová",
+    "lok": "Bartošové",
+    "ins": "Bartošovou"
+   },
+   {
+    "nom": "Vlčková",
+    "gen": "Vlčkové",
+    "dat": "Vlčkové",
+    "aku": "Vlčkovou",
+    "vok": "Vlčková",
+    "lok": "Vlčkové",
+    "ins": "Vlčkovou"
+   },
+   {
+    "nom": "Poláková",
+    "gen": "Polákové",
+    "dat": "Polákové",
+    "aku": "Polákovou",
+    "vok": "Poláková",
+    "lok": "Polákové",
+    "ins": "Polákovou"
+   },
+   {
+    "nom": "Musilová",
+    "gen": "Musilové",
+    "dat": "Musilové",
+    "aku": "Musilovou",
+    "vok": "Musilová",
+    "lok": "Musilové",
+    "ins": "Musilovou"
+   },
+   {
+    "nom": "Šimková",
+    "gen": "Šimkové",
+    "dat": "Šimkové",
+    "aku": "Šimkovou",
+    "vok": "Šimková",
+    "lok": "Šimkové",
+    "ins": "Šimkovou"
+   },
+   {
+    "nom": "Holubová",
+    "gen": "Holubové",
+    "dat": "Holubové",
+    "aku": "Holubovou",
+    "vok": "Holubová",
+    "lok": "Holubové",
+    "ins": "Holubovou"
+   },
+   {
+    "nom": "Kopecká",
+    "gen": "Kopecké",
+    "dat": "Kopecké",
+    "aku": "Kopeckou",
+    "vok": "Kopecká",
+    "lok": "Kopecké",
+    "ins": "Kopeckou"
+   },
+   {
+    "nom": "Konečná",
+    "gen": "Konečné",
+    "dat": "Konečné",
+    "aku": "Konečnou",
+    "vok": "Konečná",
+    "lok": "Konečné",
+    "ins": "Konečnou"
+   },
+   {
+    "nom": "Malá",
+    "gen": "Malé",
+    "dat": "Malé",
+    "aku": "Malou",
+    "vok": "Malá",
+    "lok": "Malé",
+    "ins": "Malou"
+   },
+   {
+    "nom": "Ševčíková",
+    "gen": "Ševčíkové",
+    "dat": "Ševčíkové",
+    "aku": "Ševčíkovou",
+    "vok": "Ševčíková",
+    "lok": "Ševčíkové",
+    "ins": "Ševčíkovou"
+   },
+   {
+    "nom": "Matoušková",
+    "gen": "Matouškové",
+    "dat": "Matouškové",
+    "aku": "Matouškovou",
+    "vok": "Matoušková",
+    "lok": "Matouškové",
+    "ins": "Matouškovou"
+   },
+   {
+    "nom": "Stejskalová",
+    "gen": "Stejskalové",
+    "dat": "Stejskalové",
+    "aku": "Stejskalovou",
+    "vok": "Stejskalová",
+    "lok": "Stejskalové",
+    "ins": "Stejskalovou"
+   },
+   {
+    "nom": "Kadlecová",
+    "gen": "Kadlecové",
+    "dat": "Kadlecové",
+    "aku": "Kadlecovou",
+    "vok": "Kadlecová",
+    "lok": "Kadlecové",
+    "ins": "Kadlecovou"
+   },
+   {
+    "nom": "Havlíčková",
+    "gen": "Havlíčkové",
+    "dat": "Havlíčkové",
+    "aku": "Havlíčkovou",
+    "vok": "Havlíčková",
+    "lok": "Havlíčkové",
+    "ins": "Havlíčkovou"
+   },
+   {
+    "nom": "Tichá",
+    "gen": "Tiché",
+    "dat": "Tiché",
+    "aku": "Tichou",
+    "vok": "Tichá",
+    "lok": "Tiché",
+    "ins": "Tichou"
+   },
+   {
+    "nom": "Součková",
+    "gen": "Součkové",
+    "dat": "Součkové",
+    "aku": "Součkovou",
+    "vok": "Součková",
+    "lok": "Součkové",
+    "ins": "Součkovou"
+   },
+   {
+    "nom": "Machová",
+    "gen": "Machové",
+    "dat": "Machové",
+    "aku": "Machovou",
+    "vok": "Machová",
+    "lok": "Machové",
+    "ins": "Machovou"
+   },
+   {
+    "nom": "Kratochvílová",
+    "gen": "Kratochvílové",
+    "dat": "Kratochvílové",
+    "aku": "Kratochvílovou",
+    "vok": "Kratochvílová",
+    "lok": "Kratochvílové",
+    "ins": "Kratochvílovou"
+   },
+   {
+    "nom": "Burešová",
+    "gen": "Burešové",
+    "dat": "Burešové",
+    "aku": "Burešovou",
+    "vok": "Burešová",
+    "lok": "Burešové",
+    "ins": "Burešovou"
+   },
+   {
+    "nom": "Říhová",
+    "gen": "Říhové",
+    "dat": "Říhové",
+    "aku": "Říhovou",
+    "vok": "Říhová",
+    "lok": "Říhové",
+    "ins": "Říhovou"
+   },
+   {
+    "nom": "Sýkorová",
+    "gen": "Sýkorové",
+    "dat": "Sýkorové",
+    "aku": "Sýkorovou",
+    "vok": "Sýkorová",
+    "lok": "Sýkorové",
+    "ins": "Sýkorovou"
+   },
+   {
+    "nom": "Šťastná",
+    "gen": "Šťastné",
+    "dat": "Šťastné",
+    "aku": "Šťastnou",
+    "vok": "Šťastná",
+    "lok": "Šťastné",
+    "ins": "Šťastnou"
+   },
+   {
+    "nom": "Hrušková",
+    "gen": "Hruškové",
+    "dat": "Hruškové",
+    "aku": "Hruškovou",
+    "vok": "Hrušková",
+    "lok": "Hruškové",
+    "ins": "Hruškovou"
+   },
+   {
+    "nom": "Zelenková",
+    "gen": "Zelenkové",
+    "dat": "Zelenkové",
+    "aku": "Zelenkovou",
+    "vok": "Zelenková",
+    "lok": "Zelenkové",
+    "ins": "Zelenkovou"
+   },
+   {
+    "nom": "Studená",
+    "gen": "Studené",
+    "dat": "Studené",
+    "aku": "Studenou",
+    "vok": "Studená",
+    "lok": "Studené",
+    "ins": "Studenou"
+   },
+   {
+    "nom": "Kubíková",
+    "gen": "Kubíkové",
+    "dat": "Kubíkové",
+    "aku": "Kubíkovou",
+    "vok": "Kubíková",
+    "lok": "Kubíkové",
+    "ins": "Kubíkovou"
+   },
+   {
+    "nom": "Pavlíková",
+    "gen": "Pavlíkové",
+    "dat": "Pavlíkové",
+    "aku": "Pavlíkovou",
+    "vok": "Pavlíková",
+    "lok": "Pavlíkové",
+    "ins": "Pavlíkovou"
+   },
+   {
+    "nom": "Vojtěchová",
+    "gen": "Vojtěchové",
+    "dat": "Vojtěchové",
+    "aku": "Vojtěchovou",
+    "vok": "Vojtěchová",
+    "lok": "Vojtěchové",
+    "ins": "Vojtěchovou"
+   },
+   {
+    "nom": "Štěpánková",
+    "gen": "Štěpánkové",
+    "dat": "Štěpánkové",
+    "aku": "Štěpánkovou",
+    "vok": "Štěpánková",
+    "lok": "Štěpánkové",
+    "ins": "Štěpánkovou"
+   },
+   {
+    "nom": "Kaplanová",
+    "gen": "Kaplanové",
+    "dat": "Kaplanové",
+    "aku": "Kaplanovou",
+    "vok": "Kaplanová",
+    "lok": "Kaplanové",
+    "ins": "Kaplanovou"
+   },
+   {
+    "nom": "Tomášková",
+    "gen": "Tomáškové",
+    "dat": "Tomáškové",
+    "aku": "Tomáškovou",
+    "vok": "Tomášková",
+    "lok": "Tomáškové",
+    "ins": "Tomáškovou"
+   },
+   {
+    "nom": "Chaloupková",
+    "gen": "Chaloupkové",
+    "dat": "Chaloupkové",
+    "aku": "Chaloupkovou",
+    "vok": "Chaloupková",
+    "lok": "Chaloupkové",
+    "ins": "Chaloupkovou"
+   },
+   {
+    "nom": "Burianová",
+    "gen": "Burianové",
+    "dat": "Burianové",
+    "aku": "Burianovou",
+    "vok": "Burianová",
+    "lok": "Burianové",
+    "ins": "Burianovou"
+   },
+   {
+    "nom": "Marešová",
+    "gen": "Marešové",
+    "dat": "Marešové",
+    "aku": "Marešovou",
+    "vok": "Marešová",
+    "lok": "Marešové",
+    "ins": "Marešovou"
+   },
+   {
+    "nom": "Kalinová",
+    "gen": "Kalinové",
+    "dat": "Kalinové",
+    "aku": "Kalinovou",
+    "vok": "Kalinová",
+    "lok": "Kalinové",
+    "ins": "Kalinovou"
+   },
+   {
+    "nom": "Vávrová",
+    "gen": "Vávrové",
+    "dat": "Vávrové",
+    "aku": "Vávrovou",
+    "vok": "Vávrová",
+    "lok": "Vávrové",
+    "ins": "Vávrovou"
+   },
+   {
+    "nom": "Lukášová",
+    "gen": "Lukášové",
+    "dat": "Lukášové",
+    "aku": "Lukášovou",
+    "vok": "Lukášová",
+    "lok": "Lukášové",
+    "ins": "Lukášovou"
+   },
+   {
+    "nom": "Bednářová",
+    "gen": "Bednářové",
+    "dat": "Bednářové",
+    "aku": "Bednářovou",
+    "vok": "Bednářová",
+    "lok": "Bednářové",
+    "ins": "Bednářovou"
+   },
+   {
+    "nom": "Dušková",
+    "gen": "Duškové",
+    "dat": "Duškové",
+    "aku": "Duškovou",
+    "vok": "Dušková",
+    "lok": "Duškové",
+    "ins": "Duškovou"
+   },
+   {
+    "nom": "Moravcová",
+    "gen": "Moravcové",
+    "dat": "Moravcové",
+    "aku": "Moravcovou",
+    "vok": "Moravcová",
+    "lok": "Moravcové",
+    "ins": "Moravcovou"
+   },
+   {
+    "nom": "Kozáková",
+    "gen": "Kozákové",
+    "dat": "Kozákové",
+    "aku": "Kozákovou",
+    "vok": "Kozáková",
+    "lok": "Kozákové",
+    "ins": "Kozákovou"
+   },
+   {
+    "nom": "Stanělková",
+    "gen": "Stanělkové",
+    "dat": "Stanělkové",
+    "aku": "Stanělkovou",
+    "vok": "Stanělková",
+    "lok": "Stanělkové",
+    "ins": "Stanělkovou"
+   },
+   {
+    "nom": "Havlová",
+    "gen": "Havlové",
+    "dat": "Havlové",
+    "aku": "Havlovou",
+    "vok": "Havlová",
+    "lok": "Havlové",
+    "ins": "Havlovou"
+   },
+   {
+    "nom": "Sedláková",
+    "gen": "Sedlákové",
+    "dat": "Sedlákové",
+    "aku": "Sedlákovou",
+    "vok": "Sedláková",
+    "lok": "Sedlákové",
+    "ins": "Sedlákovou"
+   },
+   {
+    "nom": "Pavlíčková",
+    "gen": "Pavlíčkové",
+    "dat": "Pavlíčkové",
+    "aku": "Pavlíčkovou",
+    "vok": "Pavlíčková",
+    "lok": "Pavlíčkové",
+    "ins": "Pavlíčkovou"
+   },
+   {
+    "nom": "Jandová",
+    "gen": "Jandové",
+    "dat": "Jandové",
+    "aku": "Jandovou",
+    "vok": "Jandová",
+    "lok": "Jandové",
+    "ins": "Jandovou"
+   },
+   {
+    "nom": "Skálová",
+    "gen": "Skálové",
+    "dat": "Skálové",
+    "aku": "Skálovou",
+    "vok": "Skálová",
+    "lok": "Skálové",
+    "ins": "Skálovou"
+   },
+   {
+    "nom": "Šebková",
+    "gen": "Šebkové",
+    "dat": "Šebkové",
+    "aku": "Šebkovou",
+    "vok": "Šebková",
+    "lok": "Šebkové",
+    "ins": "Šebkovou"
+   },
+   {
+    "nom": "Slavíková",
+    "gen": "Slavíkové",
+    "dat": "Slavíkové",
+    "aku": "Slavíkovou",
+    "vok": "Slavíková",
+    "lok": "Slavíkové",
+    "ins": "Slavíkovou"
+   },
+   {
+    "nom": "Kubová",
+    "gen": "Kubové",
+    "dat": "Kubové",
+    "aku": "Kubovou",
+    "vok": "Kubová",
+    "lok": "Kubové",
+    "ins": "Kubovou"
+   },
+   {
+    "nom": "Štěpánová",
+    "gen": "Štěpánové",
+    "dat": "Štěpánové",
+    "aku": "Štěpánovou",
+    "vok": "Štěpánová",
+    "lok": "Štěpánové",
+    "ins": "Štěpánovou"
+   },
+   {
+    "nom": "Vondráčková",
+    "gen": "Vondráčkové",
+    "dat": "Vondráčkové",
+    "aku": "Vondráčkovou",
+    "vok": "Vondráčková",
+    "lok": "Vondráčkové",
+    "ins": "Vondráčkovou"
+   },
+   {
+    "nom": "Kubíčková",
+    "gen": "Kubíčkové",
+    "dat": "Kubíčkové",
+    "aku": "Kubíčkovou",
+    "vok": "Kubíčková",
+    "lok": "Kubíčkové",
+    "ins": "Kubíčkovou"
+   },
+   {
+    "nom": "Hrubá",
+    "gen": "Hrubé",
+    "dat": "Hrubé",
+    "aku": "Hrubou",
+    "vok": "Hrubá",
+    "lok": "Hrubé",
+    "ins": "Hrubou"
+   },
+   {
+    "nom": "Bláhová",
+    "gen": "Bláhové",
+    "dat": "Bláhové",
+    "aku": "Bláhovou",
+    "vok": "Bláhová",
+    "lok": "Bláhové",
+    "ins": "Bláhovou"
+   },
+   {
+    "nom": "Doleželová",
+    "gen": "Doleželové",
+    "dat": "Doleželové",
+    "aku": "Doleželovou",
+    "vok": "Doleželová",
+    "lok": "Doleželové",
+    "ins": "Doleželovou"
+   },
+   {
+    "nom": "Michalíková",
+    "gen": "Michalíkové",
+    "dat": "Michalíkové",
+    "aku": "Michalíkovou",
+    "vok": "Michalíková",
+    "lok": "Michalíkové",
+    "ins": "Michalíkovou"
+   },
+   {
+    "nom": "Vacková",
+    "gen": "Vackové",
+    "dat": "Vackové",
+    "aku": "Vackovou",
+    "vok": "Vacková",
+    "lok": "Vackové",
+    "ins": "Vackovou"
+   },
+   {
+    "nom": "Kalousová",
+    "gen": "Kalousové",
+    "dat": "Kalousové",
+    "aku": "Kalousovou",
+    "vok": "Kalousová",
+    "lok": "Kalousové",
+    "ins": "Kalousovou"
+   },
+   {
+    "nom": "Černochová",
+    "gen": "Černochové",
+    "dat": "Černochové",
+    "aku": "Černochovou",
+    "vok": "Černochová",
+    "lok": "Černochové",
+    "ins": "Černochovou"
+   },
+   {
+    "nom": "Peterková",
+    "gen": "Peterkové",
+    "dat": "Peterkové",
+    "aku": "Peterkovou",
+    "vok": "Peterková",
+    "lok": "Peterkové",
+    "ins": "Peterkovou"
+   },
+   {
+    "nom": "Ondráčková",
+    "gen": "Ondráčkové",
+    "dat": "Ondráčkové",
+    "aku": "Ondráčkovou",
+    "vok": "Ondráčková",
+    "lok": "Ondráčkové",
+    "ins": "Ondráčkovou"
+   },
+   {
+    "nom": "Dostálová",
+    "gen": "Dostálové",
+    "dat": "Dostálové",
+    "aku": "Dostálovou",
+    "vok": "Dostálová",
+    "lok": "Dostálové",
+    "ins": "Dostálovou"
+   },
+   {
+    "nom": "Šulcová",
+    "gen": "Šulcové",
+    "dat": "Šulcové",
+    "aku": "Šulcovou",
+    "vok": "Šulcová",
+    "lok": "Šulcové",
+    "ins": "Šulcovou"
+   },
+   {
+    "nom": "Mazánková",
+    "gen": "Mazánkové",
+    "dat": "Mazánkové",
+    "aku": "Mazánkovou",
+    "vok": "Mazánková",
+    "lok": "Mazánkové",
+    "ins": "Mazánkovou"
+   },
+   {
+    "nom": "Fraňková",
+    "gen": "Fraňkové",
+    "dat": "Fraňkové",
+    "aku": "Fraňkovou",
+    "vok": "Fraňková",
+    "lok": "Fraňkové",
+    "ins": "Fraňkovou"
+   },
+   {
+    "nom": "Vrbová",
+    "gen": "Vrbové",
+    "dat": "Vrbové",
+    "aku": "Vrbovou",
+    "vok": "Vrbová",
+    "lok": "Vrbové",
+    "ins": "Vrbovou"
+   },
+   {
+    "nom": "Vítková",
+    "gen": "Vítkové",
+    "dat": "Vítkové",
+    "aku": "Vítkovou",
+    "vok": "Vítková",
+    "lok": "Vítkové",
+    "ins": "Vítkovou"
+   },
+   {
+    "nom": "Bílá",
+    "gen": "Bílé",
+    "dat": "Bílé",
+    "aku": "Bílou",
+    "vok": "Bílá",
+    "lok": "Bílé",
+    "ins": "Bílou"
+   },
+   {
+    "nom": "Hošková",
+    "gen": "Hoškové",
+    "dat": "Hoškové",
+    "aku": "Hoškovou",
+    "vok": "Hošková",
+    "lok": "Hoškové",
+    "ins": "Hoškovou"
+   },
+   {
+    "nom": "Švecová",
+    "gen": "Švecové",
+    "dat": "Švecové",
+    "aku": "Švecovou",
+    "vok": "Švecová",
+    "lok": "Švecové",
+    "ins": "Švecovou"
+   },
+   {
+    "nom": "Janoušková",
+    "gen": "Janouškové",
+    "dat": "Janouškové",
+    "aku": "Janouškovou",
+    "vok": "Janoušková",
+    "lok": "Janouškové",
+    "ins": "Janouškovou"
+   },
+   {
+    "nom": "Rybářová",
+    "gen": "Rybářové",
+    "dat": "Rybářové",
+    "aku": "Rybářovou",
+    "vok": "Rybářová",
+    "lok": "Rybářové",
+    "ins": "Rybářovou"
+   },
+   {
+    "nom": "Šmídová",
+    "gen": "Šmídové",
+    "dat": "Šmídové",
+    "aku": "Šmídovou",
+    "vok": "Šmídová",
+    "lok": "Šmídové",
+    "ins": "Šmídovou"
+   },
+   {
+    "nom": "Pátková",
+    "gen": "Pátkové",
+    "dat": "Pátkové",
+    "aku": "Pátkovou",
+    "vok": "Pátková",
+    "lok": "Pátkové",
+    "ins": "Pátkovou"
+   },
+   {
+    "nom": "Křížková",
+    "gen": "Křížkové",
+    "dat": "Křížkové",
+    "aku": "Křížkovou",
+    "vok": "Křížková",
+    "lok": "Křížkové",
+    "ins": "Křížkovou"
+   },
+   {
+    "nom": "Palečková",
+    "gen": "Palečkové",
+    "dat": "Palečkové",
+    "aku": "Palečkovou",
+    "vok": "Palečková",
+    "lok": "Palečkové",
+    "ins": "Palečkovou"
+   },
+   {
+    "nom": "Hanáková",
+    "gen": "Hanákové",
+    "dat": "Hanákové",
+    "aku": "Hanákovou",
+    "vok": "Hanáková",
+    "lok": "Hanákové",
+    "ins": "Hanákovou"
+   },
+   {
+    "nom": "Klímová",
+    "gen": "Klímové",
+    "dat": "Klímové",
+    "aku": "Klímovou",
+    "vok": "Klímová",
+    "lok": "Klímové",
+    "ins": "Klímovou"
+   },
+   {
+    "nom": "Kolaříková",
+    "gen": "Kolaříkové",
+    "dat": "Kolaříkové",
+    "aku": "Kolaříkovou",
+    "vok": "Kolaříková",
+    "lok": "Kolaříkové",
+    "ins": "Kolaříkovou"
+   },
+   {
+    "nom": "Pešková",
+    "gen": "Peškové",
+    "dat": "Peškové",
+    "aku": "Peškovou",
+    "vok": "Pešková",
+    "lok": "Peškové",
+    "ins": "Peškovou"
+   },
+   {
+    "nom": "Nová",
+    "gen": "Nové",
+    "dat": "Nové",
+    "aku": "Novou",
+    "vok": "Nová",
+    "lok": "Nové",
+    "ins": "Novou"
+   },
+   {
+    "nom": "Pechová",
+    "gen": "Pechové",
+    "dat": "Pechové",
+    "aku": "Pechovou",
+    "vok": "Pechová",
+    "lok": "Pechové",
+    "ins": "Pechovou"
+   },
+   {
+    "nom": "Hlaváčková",
+    "gen": "Hlaváčkové",
+    "dat": "Hlaváčkové",
+    "aku": "Hlaváčkovou",
+    "vok": "Hlaváčková",
+    "lok": "Hlaváčkové",
+    "ins": "Hlaváčkovou"
+   },
+   {
+    "nom": "Sladká",
+    "gen": "Sladké",
+    "dat": "Sladké",
+    "aku": "Sladkou",
+    "vok": "Sladká",
+    "lok": "Sladké",
+    "ins": "Sladkou"
+   },
+   {
+    "nom": "Jirásková",
+    "gen": "Jiráskové",
+    "dat": "Jiráskové",
+    "aku": "Jiráskovou",
+    "vok": "Jirásková",
+    "lok": "Jiráskové",
+    "ins": "Jiráskovou"
+   },
+   {
+    "nom": "Lišková",
+    "gen": "Liškové",
+    "dat": "Liškové",
+    "aku": "Liškovou",
+    "vok": "Lišková",
+    "lok": "Liškové",
+    "ins": "Liškovou"
+   },
+   {
+    "nom": "Šimůnková",
+    "gen": "Šimůnkové",
+    "dat": "Šimůnkové",
+    "aku": "Šimůnkovou",
+    "vok": "Šimůnková",
+    "lok": "Šimůnkové",
+    "ins": "Šimůnkovou"
+   },
+   {
+    "nom": "Janáčková",
+    "gen": "Janáčkové",
+    "dat": "Janáčkové",
+    "aku": "Janáčkovou",
+    "vok": "Janáčková",
+    "lok": "Janáčkové",
+    "ins": "Janáčkovou"
+   },
+   {
+    "nom": "Mašková",
+    "gen": "Maškové",
+    "dat": "Maškové",
+    "aku": "Maškovou",
+    "vok": "Mašková",
+    "lok": "Maškové",
+    "ins": "Maškovou"
+   },
+   {
+    "nom": "Brožová",
+    "gen": "Brožové",
+    "dat": "Brožové",
+    "aku": "Brožovou",
+    "vok": "Brožová",
+    "lok": "Brožové",
+    "ins": "Brožovou"
+   },
+   {
+    "nom": "Vlachová",
+    "gen": "Vlachové",
+    "dat": "Vlachové",
+    "aku": "Vlachovou",
+    "vok": "Vlachová",
+    "lok": "Vlachové",
+    "ins": "Vlachovou"
+   },
+   {
+    "nom": "Prokopová",
+    "gen": "Prokopové",
+    "dat": "Prokopové",
+    "aku": "Prokopovou",
+    "vok": "Prokopová",
+    "lok": "Prokopové",
+    "ins": "Prokopovou"
+   },
+   {
+    "nom": "Marešová",
+    "gen": "Marešové",
+    "dat": "Marešové",
+    "aku": "Marešovou",
+    "vok": "Marešová",
+    "lok": "Marešové",
+    "ins": "Marešovou"
+   },
+   {
+    "nom": "Mikulášková",
+    "gen": "Mikuláškové",
+    "dat": "Mikuláškové",
+    "aku": "Mikuláškovou",
+    "vok": "Mikulášková",
+    "lok": "Mikuláškové",
+    "ins": "Mikuláškovou"
+   },
+   {
+    "nom": "Hanušová",
+    "gen": "Hanušové",
+    "dat": "Hanušové",
+    "aku": "Hanušovou",
+    "vok": "Hanušová",
+    "lok": "Hanušové",
+    "ins": "Hanušovou"
+   },
+   {
+    "nom": "Šafránková",
+    "gen": "Šafránkové",
+    "dat": "Šafránkové",
+    "aku": "Šafránkovou",
+    "vok": "Šafránková",
+    "lok": "Šafránkové",
+    "ins": "Šafránkovou"
+   }
+  ]
+ }
+}

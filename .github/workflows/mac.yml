@@ -1,0 +1,55 @@
+# Compila Anonimizador.app y el .dmg en un runner de Mac (Apple Silicon) de GitHub Actions.
+# Se lanza a mano (Actions → mac → Run workflow) o al subir una etiqueta v*.
+name: mac
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install ".[ui,ner,dev]" pyinstaller
+
+      - name: Pruebas
+        run: pytest -q
+
+      - name: Idioma español para el OCR (PyMuPDF ya trae Tesseract)
+        run: |
+          mkdir -p vendor/tesseract/tessdata
+          for l in spa eng ces; do
+            curl -sSL -o vendor/tesseract/tessdata/$l.traineddata \
+              https://github.com/tesseract-ocr/tessdata_fast/raw/main/$l.traineddata
+          done
+
+      - name: PyInstaller
+        run: pyinstaller packaging/anonimizador.spec --noconfirm
+
+      - name: Prueba de humo de la app (spaCy, OCR y detector dentro del paquete)
+        run: |
+          dist/Anonimizador.app/Contents/MacOS/Anonimizador --autoprueba autoprueba.json || true
+          cat autoprueba.json
+          python -c "import json,sys; sys.exit(0 if json.load(open('autoprueba.json'))['ok'] else 1)"
+
+      - name: Imagen de disco (.dmg)
+        run: |
+          mkdir -p dmg && cp -R dist/Anonimizador.app dmg/ && ln -s /Applications dmg/Aplicaciones
+          VERSION=$(python -c "import sys; sys.path.insert(0,'src'); import anonimizador; print(anonimizador.__version__)")
+          hdiutil create -volname "Anonimizador" -srcfolder dmg -ov -format UDZO "dist/Anonimizador-$VERSION-mac.dmg"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Anonimizador-mac
+          path: dist/Anonimizador-*-mac.dmg
+          retention-days: 7

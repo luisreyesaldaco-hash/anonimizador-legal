@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anonimizador"
+version = "0.1.0"
+description = "Seudonimiza documentos legales en tu propia PC antes de mandarlos a una IA."
+requires-python = ">=3.11"
+license = "AGPL-3.0-or-later"
+dependencies = ["python-docx>=1.2", "lxml>=5", "PyMuPDF>=1.24"]
+
+[project.optional-dependencies]
+ui = ["customtkinter>=5.2", "tkinterdnd2>=0.4", "pillow>=10"]
+ner = [
+    "spacy>=3.8,<3.9",
+    "es_core_news_md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl",
+    # Documentos en inglés (detector/en.py).
+    "en_core_web_md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.8.0/en_core_web_md-3.8.0-py3-none-any.whl",
+    # Documentos en checo (detector/cs.py): el spaCy checo de ~/spacy-cs, MIT.
+    "cs_ner_sm @ https://huggingface.co/LuisRey6/cs_ner_sm/resolve/main/cs_ner_sm-0.2.0-py3-none-any.whl",
+]
+dev = ["pytest>=8", "python-stdnum>=2.0"]  # stdnum: solo para validar contra una implementación de referencia
+
+[project.scripts]
+anonimizador = "anonimizador.cli:main"
+
+[project.gui-scripts]
+anonimizador-app = "anonimizador.ui.ventana:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.package-data]
+"anonimizador.ui" = ["recursos/*"]
+"anonimizador.detector" = ["datos_cs/*.json", "datos_en/*.json"]
