@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Guardia del anonimizador para Claude Code (hook PreToolUse).
 
-Bloquea que el agente abra lo que tiene datos reales:
+Bloquea que el agente abra lo que tiene datos reales (Read, Grep, Glob, Bash, Write/Edit,
+NotebookRead/NotebookEdit y WebFetch con file://):
 - los originales, la tabla y los resultados revertidos que registró `anonimizador agente`
   (~/.anonimizador/protegidos.json);
 - cualquier tabla (*_tabla.json, tabla_NO_ABRIR.json), salida _CON_DATOS_REVISAR o _revertido;
@@ -87,6 +88,21 @@ def _motivo_texto(texto: str, cwd: str, protegidos: set[str], permitidos: set[st
     return None
 
 
+def _motivo_carpeta(ruta: str, cwd: str, protegidos: set[str]) -> str | None:
+    """Buscar o listar dentro de una carpeta que tiene originales registrados o una tabla."""
+    carpeta = Path(_absoluta(ruta, cwd))
+    if not carpeta.is_dir():
+        return None
+    if any(p.startswith(str(carpeta) + os.sep) for p in protegidos):
+        return "esa carpeta contiene archivos con datos reales; busca solo en el texto anonimizado"
+    for i, f in enumerate(carpeta.rglob("*")):
+        if i > 5000:
+            break
+        if _NOMBRE_VEDADO.search(f.name):
+            return "esa carpeta contiene una tabla de equivalencias; busca solo en el texto anonimizado"
+    return None
+
+
 def revisar(evento: dict) -> str | None:
     """Motivo para bloquear, o None si puede pasar."""
     herramienta = evento.get("tool_name", "")
@@ -97,21 +113,28 @@ def revisar(evento: dict) -> str | None:
     if herramienta == "Read":
         return _motivo_ruta(entrada.get("file_path", ""), cwd, protegidos, permitidos)
 
-    if herramienta == "Grep":
+    if herramienta == "NotebookRead":
+        return _motivo_ruta(entrada.get("notebook_path", ""), cwd, protegidos, permitidos)
+
+    if herramienta == "WebFetch":
+        url = str(entrada.get("url", ""))
+        if not url.lower().startswith("file:"):
+            return None
+        from urllib.parse import unquote, urlparse
+        ruta = unquote(urlparse(url).path)
+        if re.match(r"^/[A-Za-z]:/", ruta):  # file:///C:/... en Windows
+            ruta = ruta[1:]
+        return _motivo_ruta(ruta, cwd, protegidos, permitidos) or _motivo_carpeta(ruta, cwd, protegidos)
+
+    if herramienta in ("Grep", "Glob"):
+        # Grep muestra contenido; Glob, nombres de archivo (el del original suele ser el del cliente).
         ruta = entrada.get("path") or cwd
         motivo = _motivo_ruta(ruta, cwd, protegidos, permitidos)
         if motivo:
             return motivo
-        carpeta = Path(_absoluta(ruta, cwd))
-        if carpeta.is_dir():
-            if any(p.startswith(str(carpeta) + os.sep) for p in protegidos):
-                return "esa carpeta contiene archivos con datos reales; busca solo en el texto anonimizado"
-            for i, f in enumerate(carpeta.rglob("*")):
-                if i > 5000:
-                    break
-                if _NOMBRE_VEDADO.search(f.name):
-                    return "esa carpeta contiene una tabla de equivalencias; busca solo en el texto anonimizado"
-        return None
+        if herramienta == "Glob" and _NOMBRE_VEDADO.search(str(entrada.get("pattern", ""))):
+            return "busca una tabla de equivalencias o un archivo con datos reales"
+        return _motivo_carpeta(ruta, cwd, protegidos)
 
     if herramienta == "Bash":
         orden = entrada.get("command", "")

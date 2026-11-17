@@ -16,6 +16,8 @@ _spec.loader.exec_module(guardia)
 def caso(tmp_path, monkeypatch):
     (tmp_path / "anonimizado").mkdir()
     (tmp_path / "anonimizado" / "tabla_NO_ABRIR.json").write_text("{}")
+    (tmp_path / "codigo").mkdir()
+    (tmp_path / "codigo" / "app.py").write_text("")
     registro = tmp_path / "protegidos.json"
     registro.write_text(json.dumps({
         "protegidos": [str(tmp_path / "Demanda Juan Pérez.docx"), str(tmp_path / "final.docx")],
@@ -47,6 +49,12 @@ def _bloquea(caso, herramienta, **entrada) -> bool:
     ("Bash", {"command": "anonimizador generar demanda.docx"}),
     ("Write", {"file_path": "leer.py", "content": "import docx\ndocx.Document('demanda.docx')"}),
     ("Write", {"file_path": "anonimizado/tabla_NO_ABRIR.json", "content": "{}"}),
+    ("Glob", {"pattern": "*.docx"}),
+    ("Glob", {"pattern": "**/*", "path": "anonimizado"}),
+    ("Glob", {"pattern": "**/*tabla_NO_ABRIR.json", "path": "/otra"}),
+    ("NotebookRead", {"notebook_path": "Demanda Juan Pérez.docx"}),
+    ("WebFetch", {"url": "file:///otra/carpeta/contrato.pdf", "prompt": "resume"}),
+    ("WebFetch", {"url": "file://localhost/x/anonimizado/tabla_NO_ABRIR.json", "prompt": "lee"}),
 ])
 def test_bloquea(caso, herramienta, entrada):
     assert _bloquea(caso, herramienta, **entrada)
@@ -63,6 +71,8 @@ def test_bloquea(caso, herramienta, entrada):
     ("Bash", {"command": "open \"final.docx\""}),
     ("Bash", {"command": "ls -la && git status"}),
     ("Write", {"file_path": "anonimizado/respuesta.md", "content": "# Opinión sobre demanda.docx"}),
+    ("Glob", {"pattern": "**/*.py", "path": "codigo"}),
+    ("WebFetch", {"url": "https://www.dof.gob.mx/nota.pdf", "prompt": "resume"}),
 ])
 def test_deja_pasar(caso, herramienta, entrada):
     assert not _bloquea(caso, herramienta, **entrada)

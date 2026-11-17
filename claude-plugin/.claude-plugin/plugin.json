@@ -1,6 +1,6 @@
 {
   "name": "anonimizador",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude trabaja con documentos legales sin ver nunca los datos reales: los anonimiza en tu computadora, trabaja solo con las etiquetas y al final les devuelve los nombres reales.",
   "author": {
     "name": "Luis Reyes Aldaco"

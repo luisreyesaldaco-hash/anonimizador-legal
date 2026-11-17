@@ -18,6 +18,8 @@ querías hacer.
 
 1. **No abras el documento de la persona**: ni con Read, ni con `cat`, `pdftotext`,
    `python-docx`, ni con un script tuyo. Ni para "echar un vistazo". Primero se anonimiza.
+   Si no sabes cuál es el archivo, pide la ruta a la persona en vez de listar sus carpetas: el
+   nombre del archivo suele ser el del cliente.
 2. **No abras nunca** la tabla (`tabla_NO_ABRIR.json`, `*_tabla.json`) ni el resultado final.
 3. Trabaja solo con lo que te da `preparar`: `texto_anonimizado.md` y los `*_anonimizado.*`.
 4. No adivines ni preguntes quién es `[PERSONA_1]`. No escribas nombres reales en el chat.
